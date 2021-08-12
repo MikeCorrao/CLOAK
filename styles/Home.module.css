@@ -119,3 +119,11 @@
     flex-direction: column;
   }
 }
+
+.homeText {
+  font-size: 2em;
+  text-align: right;
+  float: right;
+  width: 45%;
+  margin: 0 4% 10% 0;
+}
