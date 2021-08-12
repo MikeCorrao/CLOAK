@@ -1,0 +1,13 @@
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.footerImage {
+}
+
+.text {
+  font-size: 1.6em;
+  width: 50%;
+  margin-left: 4%;
+}
