@@ -1,0 +1,11 @@
+.navLink {
+  margin: -5% 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.pageTitle {
+  font-size: 3em;
+  display: flex;
+  align-items: center;
+}
