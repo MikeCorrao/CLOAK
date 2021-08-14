@@ -11,7 +11,7 @@
 .entryText {
   font-size: 2em;
   margin: 0 0 0 8%;
-  overflow: scroll;
+  overflow: hidden;
   max-height: inherit;
   align-self: flex-start;
 }
