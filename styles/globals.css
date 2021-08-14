@@ -8,6 +8,10 @@ body {
   background-color: black;
   font-family: fangsong;
 }
+::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
+}
 
 .text {
   font-size: 2.3em;
