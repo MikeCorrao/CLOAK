@@ -1,0 +1,17 @@
+.workEntry {
+  margin: 2% 11% 17%;
+  display: flex;
+  align-items: center;
+  max-height: 16em;
+}
+
+.entryImage {
+}
+
+.entryText {
+  font-size: 2em;
+  margin: 0 0 0 8%;
+  overflow: scroll;
+  max-height: inherit;
+  align-self: flex-start;
+}
