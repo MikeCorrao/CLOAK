@@ -1,9 +1,3 @@
-.signalText {
-  font-size: 2.3em;
-  width: 57%;
-  margin: 0 auto;
-}
-
-.signalText a {
+.text a {
   color: #fcfc03;
 }

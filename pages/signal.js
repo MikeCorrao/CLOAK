@@ -4,7 +4,7 @@ import styles from "../styles/Signal.module.css";
 
 export default function Signal() {
   return (
-    <div className={styles.signalText}>
+    <div className="text">
       <p>
         The CLOAK is a means of obfuscation. Not by rendering itself
         undetectable, but rather by creating a surface which conceals its
