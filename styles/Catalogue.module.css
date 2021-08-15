@@ -11,12 +11,12 @@
 .entryText {
   font-size: 2em;
   margin: 0 0 0 8%;
-  overflow: hidden;
+  overflow: scroll;
+  overfloe-y: hidden;
   max-height: inherit;
   align-self: flex-start;
   -ms-overflow-style: none; /* for Internet Explorer, Edge */
   scrollbar-width: none; /* for Firefox */
-  overflow-y: scroll;
 }
 ::-webkit-scrollbar {
   display: none;
