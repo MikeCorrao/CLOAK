@@ -11,11 +11,11 @@
 .entryText {
   font-size: 2em;
   margin: 0 0 0 8%;
-  overflow: scroll;
-  overflow-y: hidden;
-  overflow-x: hidden;
   max-height: inherit;
-  align-self: flex-start;
-  -ms-overflow-style: none; /* for Internet Explorer, Edge */
-  scrollbar-width: none; /* for Firefox */
+  overflow: scroll;
+}
+
+.entryText::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* make scrollbar transparent */
 }
