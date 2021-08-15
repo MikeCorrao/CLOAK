@@ -7,6 +7,5 @@
 .pageTitle {
   font-size: 3.8em;
   display: flex;
-  align-items: center;
-  height: 89%;
+  padding: 2% 0 0 0;
 }
