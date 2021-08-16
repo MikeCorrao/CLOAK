@@ -2,14 +2,26 @@
   display: flex;
   justify-content: center;
   clear: both;
-  margin-top: 10%;
+  margin: 10% 0 3% 0;
+}
+
+.footerLeft {
+  width: 21%;
+}
+.footerCenterLeft {
+  width: 4%;
+}
+.footerCenterRight {
+  width: 50%;
+}
+.footerRight {
+  width: 25%;
 }
 
 .footerImage {
+  float: right;
 }
 
 .text {
   font-size: 1.6em;
-  width: 50%;
-  margin-left: 4%;
 }
