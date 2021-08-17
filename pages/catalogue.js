@@ -17,5 +17,5 @@ export default function Catalogue() {
     return worksHtml;
   }
 
-  return <div className={styles.worksContainer}>{workEntries()}</div>;
+  return <div className="pageContainer">{workEntries()}</div>;
 }

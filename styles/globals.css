@@ -9,9 +9,13 @@ body {
   font-family: fangsong;
 }
 
+.pageContainer {
+  width: 55%;
+  margin: 0 auto;
+}
+
 .text {
   font-size: 1.6em;
-  width: 57%;
   margin: 0 auto;
 }
 
