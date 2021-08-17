@@ -36,5 +36,7 @@
 
 /* Large screens ----------- */
 @media only screen and (min-width: 1824px) {
-  /* Styles */
+  .header {
+    max-width: 1200px;
+  }
 }
