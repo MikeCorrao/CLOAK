@@ -1,15 +1,40 @@
-.header {
-  width: 100%;
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (max-width: 900px) {
+  .header {
+    width: 100%;
+    margin-bottom: 10%;
+  }
+
+  .icon {
+    width: 100%;
+  }
+
+  .nav {
+    display: flex;
+    flex-direction: row;
+  }
 }
 
-.nav {
-  display: flex;
-  flex-direction: column;
-  margin: 2% 0 0 0;
+/* Desktops and laptops ----------- */
+@media only screen and (min-width: 900px) {
+  .header {
+    width: 100%;
+  }
+
+  .icon {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+
+  .nav {
+    display: flex;
+    flex-direction: column;
+    margin: 2% 0 0 0;
+  }
 }
 
-.icon {
-  position: absolute;
-  right: 0px;
-  top: 0px;
+/* Large screens ----------- */
+@media only screen and (min-width: 1824px) {
+  /* Styles */
 }

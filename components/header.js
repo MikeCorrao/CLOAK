@@ -10,7 +10,7 @@ export default function Header() {
       <img
         src="images/cloak_logo.png"
         width="600"
-        height="550"
+        height="250"
         className={styles.icon}
       />
       <div className={styles.nav}>

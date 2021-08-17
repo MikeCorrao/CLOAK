@@ -9,11 +9,6 @@ body {
   font-family: fangsong;
 }
 
-.pageContainer {
-  width: 55%;
-  margin: 0 auto;
-}
-
 .text {
   font-size: 1.6em;
   margin: 0 auto;
@@ -31,4 +26,20 @@ a {
 @font-face {
   font-family: fangsong;
   src: url(./fonts/fangsong/chinese.simfang.ttf);
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (max-width: 900px) {
+  .pageContainer {
+    width: 95%;
+    margin: 0 auto;
+  }
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (min-width: 900px) {
+  .pageContainer {
+    width: 55%;
+    margin: 0 auto;
+  }
 }
