@@ -19,6 +19,7 @@
 @media only screen and (min-width: 900px) {
   .header {
     width: 100%;
+    max-width: 1200px;
   }
 
   .icon {
@@ -37,6 +38,5 @@
 /* Large screens ----------- */
 @media only screen and (min-width: 1824px) {
   .header {
-    max-width: 1200px;
   }
 }
