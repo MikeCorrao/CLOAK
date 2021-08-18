@@ -35,7 +35,7 @@
 
   .entryText {
     font-size: 16pt;
-    margin: 0 0 0 8%;
+    margin: 0 0 0 3%;
     max-height: inherit;
     overflow: scroll;
   }
