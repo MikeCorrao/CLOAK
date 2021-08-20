@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
-import styles from "../styles/Catalogue.module.css";
-import { works } from "../public/works.js";
+import styles from "../../styles/Catalogue.module.css";
+import { works } from "../../public/works.js";
 
 export default function Catalogue() {
   function workEntries() {
