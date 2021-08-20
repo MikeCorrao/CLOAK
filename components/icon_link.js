@@ -15,7 +15,12 @@ export default function IconLink(props) {
   return (
     <div className={styles.navLink}>
       <a href={props.location}>
-        <img src={"/icons/" + props.icon} width="150" height="150" />
+        <img
+          src={"/icons/" + props.icon}
+          width="80"
+          height="80"
+          className={styles.icon}
+        />
       </a>
       {pageTitle(props.location, props.text)}
     </div>
