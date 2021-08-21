@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import styles from "../../styles/Projects.module.css";
-import { works } from "../../public/works.js";
+import { projects } from "../../public/projects.js";
 
 export default function Sample() {
   return (

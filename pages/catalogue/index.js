@@ -1,18 +1,22 @@
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 import styles from "../../styles/Catalogue.module.css";
-import { works } from "../../public/works.js";
+import { projects } from "../../public/projects.js";
 
 export default function Catalogue() {
   function workEntries() {
-    let worksHtml = works.map((entry) => (
-      <div className={styles.workEntry} key={entry.title}>
-        <a target="_blank" rel="noopener noreferrer" href={entry.url}>
-          <img src={entry.imgUrl} className={styles.entryImage} />
-        </a>
-        <div className={styles.entryText}>{entry.text}</div>
-      </div>
-    ));
+    let worksHtml = [];
+    for (const entry in projects) {
+      worksHtml.push(
+        <div className={styles.workEntry} key={projects[entry].title}>
+          <Link href={"catalogue/" + projects[entry].title}>
+            <img src={projects[entry].imgUrl} className={styles.entryImage} />
+          </Link>
+          <div className={styles.entryText}>{projects[entry].text}</div>
+        </div>
+      );
+    }
 
     return worksHtml;
   }
