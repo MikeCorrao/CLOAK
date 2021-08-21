@@ -7,12 +7,9 @@ import IconLink from "./icon_link.js";
 export default function Header() {
   return (
     <div className={styles.header}>
-      <img
-        src="images/cloak_logo.png"
-        width="600"
-        height="250"
-        className={styles.icon}
-      />
+      <div className={styles.icon}>
+        <Image src="/images/cloak_logo.png" width="600" height="250" />
+      </div>
       <div className={styles.nav}>
         <IconLink icon={"entrance.png"} location={"/"} text={"Entrance"} />
         <IconLink
