@@ -9,7 +9,7 @@ export const works = [
   {
     imgUrl: "http://placekitten.com/250/250",
     title: "happy_kitten",
-    url: "https://www.twitter.com",
+    url: "/catalogue/sample",
     text:
       "Average Description - Rum laboria plaut eum re licid ut aut dernatio. Aligentiunt omnisquias et etumet et mo volutaCone consequ aspelitam dol- lore stiunt, tem estrum am in cus si coribeaquas ut voluptat",
   },

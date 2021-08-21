@@ -12,6 +12,7 @@ body {
 .text {
   font-size: 1.6em;
   margin: 0 auto;
+  width: 47%;
 }
 
 a {
