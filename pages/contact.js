@@ -1,14 +1,17 @@
 import Head from "next/head";
 import Image from "next/image";
-import styles from "../styles/Home.module.css";
+import styles from "../styles/Contact.module.css";
 
 export default function Contact() {
   return (
     <div className="pageContainer">
       <div className="text">
         <p>
-          CLOAK can be contacted via email at EMAIL ADDRESS [at] gmail [com] for
-          both general inquires and submissions.
+          CLOAK can be contacted via email at{" "}
+          <span className={styles.email}>
+            CLOAK.PUBLISHING.PROJECT [AT] GMAIL [DOT] COM
+          </span>{" "}
+          for both general inquires and submissions.
         </p>
         <p>
           {" "}
