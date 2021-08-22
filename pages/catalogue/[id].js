@@ -12,7 +12,7 @@ const Project = () => {
   console.log("id:", id);
   console.log(projectObject);
 
-  if (projectObject !== null) {
+  if (projectObject !== undefined) {
     return (
       <div className="pageContainer">
         <div className={styles.projectImage}>
@@ -31,7 +31,7 @@ const Project = () => {
       </div>
     );
   } else {
-    return <p>Sorry, page not found.</p>;
+    return <div className="text">404 Sorry, project not found.</div>;
   }
 };
 
