@@ -5,6 +5,7 @@ import styles from "../../styles/Catalogue.module.css";
 import { projects } from "../../public/projects.js";
 
 export default function Catalogue() {
+  // Iterates over the JSON of projects and creates an entry for each of them.
   function workEntries() {
     let worksHtml = [];
     for (const entry in projects) {

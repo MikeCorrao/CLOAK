@@ -4,6 +4,10 @@ import styles from "../styles/IconLink.module.css";
 import Link from "next/link";
 import { useRouter } from "next/router";
 
+// Takes props of an icon location and location.
+// Displays icon and uses 'location' to generate a link.
+// If the current page location and the location prop are equivalent
+// it displays the location text.
 export default function IconLink(props) {
   const Router = useRouter();
   function pageTitle(location, text) {

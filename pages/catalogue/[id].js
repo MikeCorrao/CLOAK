@@ -9,9 +9,9 @@ const Project = () => {
   const { id } = router.query;
   const projectObject = projects[id];
 
-  console.log("id:", id);
-  console.log(projectObject);
-
+  // Takes in the 'id' param, access the value in the projects JSON (if it exists)
+  // If the object exists it generated the HTML from the JSON, otherwise returns
+  // some 404 text.
   if (projectObject !== undefined) {
     return (
       <div className="pageContainer">
