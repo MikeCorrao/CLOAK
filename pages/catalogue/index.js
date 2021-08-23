@@ -15,7 +15,7 @@ export default function Catalogue() {
             <img src={projects[entry].imgUrl} className={styles.entryImage} />
           </Link>
           <div className={styles.entryText}>
-            Some generic text to show Steve how this works.
+            <div className={styles.entryText}>{projects[entry].text}</div>
           </div>
         </div>
       );
@@ -26,5 +26,3 @@ export default function Catalogue() {
 
   return <div className="pageContainer">{workEntries()}</div>;
 }
-
-// <div className={styles.entryText}>{projects[entry].text}</div>
