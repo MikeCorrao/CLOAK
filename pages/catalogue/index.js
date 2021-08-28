@@ -14,9 +14,7 @@ export default function Catalogue() {
           <Link href={"catalogue/" + projects[entry].title}>
             <img src={projects[entry].imgUrl} className={styles.entryImage} />
           </Link>
-          <div className={styles.entryText}>
-            <div className={styles.entryText}>{projects[entry].text}</div>
-          </div>
+          <div className={styles.entryText}>{projects[entry].text}</div>
         </div>
       );
     }
