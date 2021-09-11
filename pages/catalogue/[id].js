@@ -19,14 +19,17 @@ const Project = () => {
           <img src={projectObject["imgUrl"]} height={900} width={800} />
         </div>
         <div className="text">
-          <p>Page Count — Dimensions</p>
-          <p>Color or B&W</p>
+          <p>{projectObject["objectDetails"]}</p>
         </div>
         <a href={projectObject["projectUrl"]}>
           <div className={styles.purchaseLink}>PURCHASE LINK</div>
         </a>
         <div className={styles.projectDescription}>
-          <div className="text">{projectObject.text}</div>
+          <div className="text">
+            {projectObject["text"].map((subArray) => (
+              <p>{subArray}</p>
+            ))}
+          </div>
         </div>
       </div>
     );

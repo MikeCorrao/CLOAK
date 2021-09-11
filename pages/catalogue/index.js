@@ -12,9 +12,14 @@ export default function Catalogue() {
       worksHtml.push(
         <div className={styles.workEntry} key={projects[entry].title}>
           <Link href={"catalogue/" + projects[entry].title}>
-            <img src={projects[entry].imgUrl} className={styles.entryImage} />
+            <img
+              src={projects[entry].imgUrl}
+              className={styles.entryImage}
+              height={250}
+              width={250}
+            />
           </Link>
-          <div className={styles.entryText}>{projects[entry].text}</div>
+          <div className={styles.entryText}>{projects[entry].shortText}</div>
         </div>
       );
     }
