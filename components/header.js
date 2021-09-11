@@ -14,7 +14,12 @@ const IconArray = [
 export default function Header() {
   function generateIconLinks() {
     let IconArrayHtml = IconArray.map((entry) => (
-      <IconLink icon={entry.icon} location={entry.location} text={entry.text} />
+      <IconLink
+        icon={entry.icon}
+        location={entry.location}
+        text={entry.text}
+        key={entry.location}
+      />
     ));
 
     return IconArrayHtml;
