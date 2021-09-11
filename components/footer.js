@@ -7,12 +7,14 @@ export default function Footer() {
   return (
     <div className={styles.footer}>
       <div className={styles.footerLeft}>
-        <img
-          src={"/images/patreon-creators-patreon.png"}
-          width={80}
-          height={80}
-          className={styles.footerImage}
-        />
+        <a href="https://www.patreon.com/CLOAK_?fan_landing=true">
+          <img
+            src={"/images/patreon-creators-patreon.png"}
+            width={80}
+            height={80}
+            className={styles.footerImage}
+          />
+        </a>
       </div>
       <div className={styles.footerCenterLeft}></div>
       <div className={styles.footerCenterRight}>
