@@ -10,14 +10,13 @@ import {
   Mesh,
   Fog,
   DirectionalLight,
-  TextureLoader,
-  Texture,
   DoubleSide,
   AxesHelper,
 } from "three";
 
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 import { OBJLoader } from "three/examples/jsm/loaders/OBJLoader";
+import { MTLLoader } from "three/examples/jsm/loaders/MTLLoader";
 
 export default function ObjectViewer(props) {
   function displayObj(title) {
@@ -55,35 +54,40 @@ export default function ObjectViewer(props) {
     controls.update();
 
     {
-      {
-        var material = new MeshPhongMaterial({
-          color: "white",
-          side: DoubleSide,
+      const mtlLoader = new MTLLoader();
+      mtlLoader.load("objs/Metal.rmtl", (materials) => {
+        materials.preload();
+        const objLoader = new OBJLoader();
+        objLoader.setMaterials(materials);
+        objLoader.load(`objs/${title}.obj`, (obj) => {
+          scene.add(obj);
+          obj.scale.multiplyScalar(0.3);
+          obj.position.set(3, -2, 0);
+          obj.rotation.x = Math.PI;
+          obj.rotation.y = -(Math.PI / 5);
+          scene.add(obj);
+          renderer.render(scene, camera);
+          requestAnimationFrame(render);
         });
-      }
-      const objLoader = new OBJLoader();
-      objLoader.load(`objs/${title}.obj`, function (obj) {
-        obj.traverse(
-          function (child) {
-            if (child instanceof Mesh) {
-              child.material = material;
-            }
-            scene.add(obj);
-            obj.scale.multiplyScalar(0.3);
-            obj.position.set(3, -2, 0);
-            obj.rotation.x = Math.PI;
-            obj.rotation.y = -(Math.PI / 5);
-            scene.add(obj);
-            renderer.render(scene, camera);
-            requestAnimationFrame(render);
-          },
-          function (xhr) {
-            console.log((xhr.loaded / xhr.total) * 100 + "% loaded");
-          },
-          function (error) {
-            console.log("An error happened", error);
-          }
-        );
+        // obj.traverse(
+        //   function (child) {
+        //     scene.add(obj);
+        //     obj.scale.multiplyScalar(0.3);
+        //     obj.position.set(3, -2, 0);
+        //     obj.rotation.x = Math.PI;
+        //     obj.rotation.y = -(Math.PI / 5);
+        //     scene.add(obj);
+        //     renderer.render(scene, camera);
+        //     requestAnimationFrame(render);
+        //   },
+        //   function (xhr) {
+        //     console.log((xhr.loaded / xhr.total) * 100 + "% loaded");
+        //   },
+        //   function (error) {
+        //     console.log("An error happened", error);
+        //   }
+        // );
+        // });
       });
     }
 
