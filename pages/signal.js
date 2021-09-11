@@ -30,7 +30,8 @@ export default function Signal() {
           Notepad. Its shape is arranged on InDesign, PowerPoint, Rhino. Its
           body is produced by IngramSpark, KDP, BookMobile.
         </p>
-        <a href="">
+
+        <a className={styles.signalLink} href="">
           To learn more, considering purchasing our introductory release.
         </a>
       </div>
