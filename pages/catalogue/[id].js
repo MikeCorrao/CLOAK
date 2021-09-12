@@ -26,8 +26,8 @@ const Project = () => {
         </a>
         <div className={styles.projectDescription}>
           <div className="text">
-            {projectObject["text"].map((subArray) => (
-              <p>{subArray}</p>
+            {projectObject["text"].map((subArray, index) => (
+              <p key={index}>{subArray}</p>
             ))}
           </div>
         </div>
