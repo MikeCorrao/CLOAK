@@ -12,8 +12,8 @@ export const projects = {
     url: "/catalogue/CLOAK",
     thumbHeight: "",
     thumbWidth: "",
-    height: "800",
-    width: "1100",
+    height: "900",
+    width: "1200",
     objectDetails:
       "CLOAK: On the Textobject & its Concealment / Color / 20 pages",
     text: [

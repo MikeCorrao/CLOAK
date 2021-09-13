@@ -42,6 +42,6 @@ a {
   .pageContainer {
     width: 85%;
     max-width: 1088px;
-    margin: 0 auto;
+    margin: 2% auto 0;
   }
 }
