@@ -10,8 +10,8 @@ export const projects = {
     imgUrl: "/images/CLOAK_coverspread.png",
     title: "CLOAK",
     url: "/catalogue/CLOAK",
-    height: "900",
-    width: "1000",
+    height: "800",
+    width: "1100",
     objectDetails:
       "CLOAK: On the Textobject & its Concealment / Color / 20 pages",
     text: [
