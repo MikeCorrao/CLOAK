@@ -10,6 +10,8 @@ export const projects = {
     imgUrl: "/images/CLOAK_coverspread.png",
     title: "CLOAK",
     url: "/catalogue/CLOAK",
+    thumbHeight: "",
+    thumbWidth: "",
     height: "800",
     width: "1100",
     objectDetails:

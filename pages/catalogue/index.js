@@ -16,7 +16,7 @@ export default function Catalogue() {
               src={projects[entry].imgUrl}
               className={styles.entryImage}
               height={250}
-              width={250}
+              width={300}
             />
           </Link>
           <div className={styles.entryText}>{projects[entry].shortText}</div>
