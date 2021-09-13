@@ -16,7 +16,11 @@ const Project = () => {
     return (
       <div className="pageContainer">
         <div className={styles.projectImage}>
-          <img src={projectObject["imgUrl"]} height={900} width={800} />
+          <img
+            src={projectObject["imgUrl"]}
+            height={projectObject["height"]}
+            width={projectObject["width"]}
+          />
         </div>
         <div className="text">
           <p>{projectObject["objectDetails"]}</p>
