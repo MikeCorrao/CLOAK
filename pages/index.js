@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <div className={styles.objectViewer}>
-        <ObjectViewer title={"CLOAK_3D_ELEMENT"} />
+        <ObjectViewer title={"CLOAK3DSCULPTURE"} />
       </div>
 
       <div className={styles.homeText}>

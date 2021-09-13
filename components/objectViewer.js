@@ -39,17 +39,17 @@ export default function ObjectViewer(props) {
     const color = 0xffffff;
     const intensity = 1;
     const light = new DirectionalLight(color, intensity);
-    light.position.set(10, 4, 10);
-    scene.add(light);
 
     const controls = new OrbitControls(camera, renderer.domElement);
-    controls.addEventListener("change", light_update);
-    function light_update() {
-      light.position.copy(camera.position);
-    }
 
     camera.position.set(30, 0, 30);
     camera.lookAt(controls.target);
+
+    controls.addEventListener("change", light_update);
+    scene.add(light);
+    function light_update() {
+      light.position.copy(camera.position);
+    }
 
     controls.enabled = true;
     controls.target.set(0, 9, 0);
@@ -57,11 +57,11 @@ export default function ObjectViewer(props) {
 
     {
       const mtlLoader = new MTLLoader();
-      mtlLoader.load("objs/CLOAK3DSCULPTURE.mtl", (materials) => {
+      mtlLoader.load("objs/" + title + ".mtl", (materials) => {
         materials.preload();
         const objLoader = new OBJLoader();
         objLoader.setMaterials(materials);
-        objLoader.load(`objs/CLOAK3DSCULPTURE.obj`, (obj) => {
+        objLoader.load("objs/" + title + ".obj", (obj) => {
           scene.add(obj);
           obj.scale.multiplyScalar(0.3);
           obj.position.set(-2, 0, 0);
