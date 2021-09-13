@@ -10,6 +10,7 @@ import {
   Mesh,
   Fog,
   DirectionalLight,
+  // AmbientLight,
   DoubleSide,
   AxesHelper,
 } from "three";
