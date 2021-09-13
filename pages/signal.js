@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 import styles from "../styles/Signal.module.css";
 
 export default function Signal() {
@@ -31,9 +32,11 @@ export default function Signal() {
           body is produced by IngramSpark, KDP, BookMobile.
         </p>
 
-        <a className={styles.signalLink} href="/catalogue/CLOAK">
-          To learn more, considering purchasing our introductory release.
-        </a>
+        <Link href="/catalogue/CLOAK">
+          <a className={styles.signalLink}>
+            To learn more, considering purchasing our introductory release.
+          </a>
+        </Link>
       </div>
     </div>
   );
