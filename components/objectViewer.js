@@ -30,22 +30,23 @@ export default function ObjectViewer(props) {
     // const axesHelper = new AxesHelper(20);
     // scene.add(axesHelper);
 
-    {
-      const color = 0xffffff;
-      const intensity = 1;
-      const light = new DirectionalLight(color, intensity);
-      light.position.set(10, 4, 10);
-      scene.add(light);
-    }
-
     const fov = 65;
     const aspect = 2;
     const near = 0.1;
     const far = 100;
     const camera = new PerspectiveCamera(fov, aspect, near, far);
 
+    const color = 0xffffff;
+    const intensity = 1;
+    const light = new DirectionalLight(color, intensity);
+    light.position.set(10, 4, 10);
+    scene.add(light);
+
     const controls = new OrbitControls(camera, renderer.domElement);
-    controls.enabled = false;
+    controls.addEventListener("change", light_update);
+    function light_update() {
+      light.position.copy(camera.position);
+    }
 
     camera.position.set(30, 0, 30);
     camera.lookAt(controls.target);
