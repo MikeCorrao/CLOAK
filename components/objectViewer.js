@@ -37,7 +37,7 @@ export default function ObjectViewer(props) {
       scene.add(light);
     }
 
-    const fov = 35;
+    const fov = 65;
     const aspect = 2;
     const near = 0.1;
     const far = 100;
@@ -46,7 +46,7 @@ export default function ObjectViewer(props) {
     const controls = new OrbitControls(camera, renderer.domElement);
     controls.enabled = false;
 
-    camera.position.set(12, 10, 12);
+    camera.position.set(30, 0, 30);
     camera.lookAt(controls.target);
 
     controls.enabled = true;
@@ -55,11 +55,11 @@ export default function ObjectViewer(props) {
 
     {
       const mtlLoader = new MTLLoader();
-      mtlLoader.load("objs/CLOAK3DLOGO.mtl", (materials) => {
+      mtlLoader.load("objs/CLOAK3DSCULPTURE.mtl", (materials) => {
         materials.preload();
         const objLoader = new OBJLoader();
         objLoader.setMaterials(materials);
-        objLoader.load(`objs/CLOAK3DLOGO.obj`, (obj) => {
+        objLoader.load(`objs/CLOAK3DSCULPTURE.obj`, (obj) => {
           scene.add(obj);
           obj.scale.multiplyScalar(0.3);
           obj.position.set(-2, 0, 0);
