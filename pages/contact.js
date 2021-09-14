@@ -16,7 +16,7 @@ export default function Contact() {
         <p>
           {" "}
           Submissions are open to unconventional works concerned with
-          concealment, visibility, and surveillance. We are open to all forms
+          concealment, visibility, and/or surveillance. We are open to all forms
           from Print Books, PDFs, Browser-Based, Executables, or whatever other
           medium conceived.
         </p>

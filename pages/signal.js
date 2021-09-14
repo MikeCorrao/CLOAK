@@ -19,7 +19,7 @@ export default function Signal() {
         <p>
           The role of the object is two-fold. First to position itself as
           something independent of the user (which does
-          notrelyonthesubject’scapacityto interface). And second, to observe /
+          not rely on the subject’s capacity to interface). And second, to observe /
           document its environment—looking back as it is looked upon.
           Articulating a multi-directionality within the acts of READING &
           VIEWING.
@@ -34,7 +34,7 @@ export default function Signal() {
 
         <Link href="/catalogue/CLOAK">
           <a className={styles.signalLink}>
-            To learn more, considering purchasing our introductory release.
+            To learn more, consider purchasing our introductory release.
           </a>
         </Link>
       </div>
