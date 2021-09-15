@@ -9,14 +9,15 @@ export default function Catalogue() {
   function workEntries() {
     let worksHtml = [];
     for (const entry in projects) {
+      let currentEntry = projects[entry];
       worksHtml.push(
-        <div className={styles.workEntry} key={projects[entry].title}>
-          <Link href={"catalogue/" + projects[entry].title}>
+        <div className={styles.workEntry} key={currentEntry.title}>
+          <Link href={"catalogue/" + currentEntry.title}>
             <img
-              src={projects[entry].imgUrl}
+              src={currentEntry.imgUrl}
               className={styles.entryImage}
-              height={250}
-              width={300}
+              height={currentEntry["thumbHeight"] || 300}
+              width={currentEntry["thumbWidth"] || 300}
             />
           </Link>
           <div className={styles.entryText}>{projects[entry].shortText}</div>

@@ -9,6 +9,18 @@ const Project = () => {
   const { id } = router.query;
   const projectObject = projects[id];
 
+  //This isn't great, but it allows p classNames to be set.
+  function constructText(text) {
+    return text.map((lineObject, index) => {
+      let computedClassName = lineObject.className;
+      return (
+        <p className={styles[computedClassName]} key={index}>
+          {lineObject.text}
+        </p>
+      );
+    });
+  }
+
   // Takes in the 'id' param, access the value in the projects JSON (if it exists)
   // If the object exists it generated the HTML from the JSON, otherwise returns
   // some 404 text.
@@ -29,11 +41,7 @@ const Project = () => {
           <div className={styles.purchaseLink}>PURCHASE LINK</div>
         </a>
         <div className={styles.projectDescription}>
-          <div className="text">
-            {projectObject["text"].map((subArray, index) => (
-              <p key={index}>{subArray}</p>
-            ))}
-          </div>
+          <div className="text">{constructText(projectObject["text"])}</div>
         </div>
       </div>
     );
