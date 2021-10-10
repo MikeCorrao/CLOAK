@@ -21,8 +21,8 @@ export default function IconLink(props) {
       <a href={props.location}>
         <img
           src={"/icons/" + props.icon}
-          width="80"
-          height="80"
+          width="60"
+          height="60"
           className={styles.icon}
         />
       </a>

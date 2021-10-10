@@ -7,7 +7,7 @@ export default function Footer() {
   return (
     <div className={styles.footer}>
       <div className={styles.footerLeft}>
-        <a href="https://www.patreon.com/CLOAK_?fan_landing=true">
+        <a href="https://www.patreon.com/CLOAK_?fan_landing=true" target="_blank">
           <img
             src={"/images/patreon-creators-patreon.png"}
             width={80}

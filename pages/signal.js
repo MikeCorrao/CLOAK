@@ -32,7 +32,7 @@ export default function Signal() {
           body is produced by IngramSpark, KDP, BookMobile.
         </p>
 
-        <Link href="/catalogue/CLOAK">
+        <Link href="/catalogue/CLOAK" target="_blank">
           <a className={styles.signalLink}>
             To learn more, consider purchasing our introductory release.
           </a>

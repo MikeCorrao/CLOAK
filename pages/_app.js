@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>cloak</title>
+        <title>CLOAK</title>
       </Head>
       <Layout>
         <Component {...pageProps} />

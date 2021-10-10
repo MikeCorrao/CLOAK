@@ -15,7 +15,7 @@
 /* Desktops and laptops ----------- */
 @media only screen and (min-width: 900px) {
   .pageTitle {
-    font-size: 3.8em;
+    font-size: 2.8em;
     display: flex;
     flex-direction: column;
     align-self: center;
@@ -27,5 +27,6 @@
   .navLink {
     display: flex;
     flex-direction: row;
+    row-gap: 60px;
   }
 }

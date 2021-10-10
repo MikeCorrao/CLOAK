@@ -24,10 +24,10 @@ export const projects = {
     url: "/catalogue/CLOAK",
     thumbHeight: "270",
     thumbWidth: "360",
-    height: "900",
-    width: "1200",
+    height: "600",
+    width: "800",
     objectDetails:
-      "CLOAK: On the Textobject & its Concealment / Color / 20 pages",
+      "CLOAK: On the Textobject & its Concealment / Color / 20 pages / $10",
     text: [
       {
         className: "italic",
@@ -45,6 +45,37 @@ export const projects = {
       { text: "What shapes it can be contorted into are yet to be seen." },
     ],
     shortText:
-      "In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
+      "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
+  },
+  WRECKDOM: {
+    imgUrl: "/images/thumbnail.png",
+    title: "WRECKDOM",
+    url: "catalogue/WRECKDOM",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    objectDetails:
+      "WRECKDOM / Free Digital Release / 31 Levels / Logan Berry",
+    text: [
+      {
+        text:
+          "Through WRECKDOM, Logan Berry has written a work of intense confrontation and examination." 
+      },
+      {
+        text:
+          "Bodies dragged through disintegrating interfaces, eyes illuminated in a radioactive green, CCTV footage looping through the static in the air. WRECKDOM is a work of ultratheatricality, luring its audience into the digitized constraints of a primitive stage."
+      },
+      {
+        text: 
+        "Utilizing highly constrained and primitive game development tools, WRECKDOM has been designed with a certain abrasion in mind. The eyes strain and the ears bleed. We are all suffering in the esoterica of the watching eye."
+      },
+      {
+        text:
+          "Please hold you're breath until the performance is finished."
+      }
+    ],
+    shortText: 
+      "WRECKDOM // A work of intense confrontation and examination. Logan Berry articulates a new limb in the theater of surveillance."
   },
 };

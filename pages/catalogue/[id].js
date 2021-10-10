@@ -37,8 +37,8 @@ const Project = () => {
         <div className="text">
           <p>{projectObject["objectDetails"]}</p>
         </div>
-        <a href={projectObject["projectUrl"]}>
-          <div className={styles.purchaseLink}>PURCHASE LINK</div>
+        <a href={projectObject["projectUrl"]} target="_blank">
+          <div className={styles.purchaseLink}>EXAMINE</div>
         </a>
         <div className={styles.projectDescription}>
           <div className="text">{constructText(projectObject["text"])}</div>
