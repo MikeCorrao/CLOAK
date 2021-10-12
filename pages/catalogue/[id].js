@@ -37,7 +37,7 @@ const Project = () => {
         <div className="text">
           <p>{projectObject["objectDetails"]}</p>
         </div>
-        <a href={projectObject["projectUrl"]} target="_blank">
+        <a href={projectObject["projectUrl"]} target="_blank" rel="noopener noreferrer">
           <div className={styles.purchaseLink}>EXAMINE</div>
         </a>
         <div className={styles.projectDescription}>
