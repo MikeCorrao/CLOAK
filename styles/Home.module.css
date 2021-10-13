@@ -122,13 +122,13 @@
 
 .homeText {
   font-size: 1.5em;
-  line-height: 160%;
+  line-height: 130%;
   text-align: left;
   float: right;
   width: 35%;
-  margin: 0 4% 10% 0;
+  margin: 0 30% 10% 0;
 }
 
 .objectViewer {
-  margin: 0 10%;
+  margin: -12% 30% 0 15%;
 }

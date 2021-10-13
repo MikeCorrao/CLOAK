@@ -24,13 +24,13 @@ export default function ObjectViewer(props) {
     const elementId = "#" + title;
     const canvas = document.querySelector(elementId);
     const renderer = new WebGLRenderer({ canvas });
-    renderer.setSize(window.innerWidth * 0.8, window.innerHeight);
+    renderer.setSize(window.innerWidth * 0.7, window.innerHeight * 0.875);
 
     const scene = new Scene();
     // const axesHelper = new AxesHelper(20);
     // scene.add(axesHelper);
 
-    const fov = 65;
+    const fov = 60;
     const aspect = 2;
     const near = 0.1;
     const far = 100;
