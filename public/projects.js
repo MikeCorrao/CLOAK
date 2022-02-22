@@ -26,8 +26,9 @@ export const projects = {
     thumbWidth: "360",
     height: "600",
     width: "800",
+    projectUrl: "https://www.barnesandnoble.com/w/cloak-cloak/1141007222?ean=9780578360850",
     objectDetails:
-      "CLOAK: On the Textobject & its Concealment / Color / 20 pages / $10",
+      "CLOAK: On the Textobject & its Concealment / Color / 22 pages / $10",
     text: [
       {
         className: "italic",
@@ -55,6 +56,7 @@ export const projects = {
     thumbWidth: "360",
     height: "600",
     width: "800",
+    projectUrl: "https://c-l-o-a-k.itch.io/wreckdom",
     objectDetails:
       "WRECKDOM / Free Digital Release / 31 Levels / Logan Berry",
     text: [
