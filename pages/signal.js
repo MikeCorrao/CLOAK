@@ -37,9 +37,25 @@ export default function Signal() {
             To learn more, consider purchasing our introductory release.
           </a>
         </Link>
-
+        
         <p>
-         We would like to thank German Sierra and Daymian Snowden for their support as material witnesses to the mass beneath the cloak.
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+         We would like to thank German Sierra, Daymian Snowden, Logan Berry, William Watson, and Danika Stegeman LeMay for their support as material witnesses to the mass beneath the cloak.
         </p>
 
       </div>

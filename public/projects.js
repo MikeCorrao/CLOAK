@@ -80,4 +80,28 @@ export const projects = {
     shortText: 
       "WRECKDOM // A work of intense confrontation and examination. Logan Berry articulates a new limb in the theater of surveillance."
   },
+  DEMONOLOGY: {
+    imgUrl: "/images/dem.png",
+    title: "DEMONOLOGY",
+    url: "catalogue/DEMONOLOGY",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://c-l-o-a-k.itch.io/an-exchange-in-demonology",
+    objectDetails:
+      "An Exchange in Demonology / Free Digital Release / Zine Trilogy / Senia Hardwick",
+    text: [
+      {
+        text:
+          "An Exchange in Demonology; an Improvement of the Self and Other is a series of three zines exploring the relationship between demonology, political theory, and the erotic. Over the course of April 2022, each zine will be released in digital and printable formats." 
+      },
+      {
+        text:
+          "Through the first issue, ​Introduction to Erotic Demonology and the Ars Goetia, we​​ begin our study of the occult by teaching you how to have sex with demons and give an overview of the philosophical stance and history of ideas in the zine."
+      }
+    ],
+    shortText: 
+      "An Exchange in Demonology // A series of zines exploring the relationship between demonology, political theory, and the erotic."
+  },
 };
