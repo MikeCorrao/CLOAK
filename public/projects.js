@@ -81,7 +81,7 @@ export const projects = {
       "WRECKDOM // A work of intense confrontation and examination. Logan Berry articulates a new limb in the theater of surveillance."
   },
   DEMONOLOGY: {
-    imgUrl: "/images/dem.png",
+    imgUrl: "/images/dem2.png",
     title: "DEMONOLOGY",
     url: "catalogue/DEMONOLOGY",
     thumbHeight: "270",
@@ -98,8 +98,12 @@ export const projects = {
       },
       {
         text:
-          "Through the first issue, ​Introduction to Erotic Demonology and the Ars Goetia, we​​ begin our study of the occult by teaching you how to have sex with demons and give an overview of the philosophical stance and history of ideas in the zine."
-      }
+          "[1] Through the first issue, ​Introduction to Erotic Demonology and the Ars Goetia, we​​ begin our study of the occult by teaching you how to have sex with demons and give an overview of the philosophical stance and history of ideas in the zine."
+      },
+      {
+        text:
+          "[2] Demonology as Route to Unionization is the second zine in a collaboration between CLOAK and Senia Hardwick. Fictions, histories, political theory, and digital artwork coalesce in a brief reflection and instruction on the Ars Goetia and the function of observation." 
+      },
     ],
     shortText: 
       "An Exchange in Demonology // A series of zines exploring the relationship between demonology, political theory, and the erotic."
