@@ -104,6 +104,10 @@ export const projects = {
         text:
           "[2] Demonology as Route to Unionization is the second zine in a collaboration between CLOAK and Senia Hardwick. Fictions, histories, political theory, and digital artwork coalesce in a brief reflection and instruction on the Ars Goetia and the function of observation." 
       },
+      {
+        text:
+          "[3] The final issue of An Exchange in Demonology; an Improvement of the Self and Others is a reflection on gifts, decapitation, and also includes divination instructions using the Ars Goetia." 
+      },
     ],
     shortText: 
       "An Exchange in Demonology // A series of zines exploring the relationship between demonology, political theory, and the erotic."
