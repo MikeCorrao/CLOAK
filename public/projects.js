@@ -112,4 +112,36 @@ export const projects = {
     shortText: 
       "An Exchange in Demonology // A series of zines exploring the relationship between demonology, political theory, and the erotic."
   },
+  DEMONPRINT: {
+    imgUrl: "/images/dem.png",
+    title: "DEMONPRINT",
+    url: "catalogue/DEMONPRINT",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://www.amazon.com/dp/057828555X/ref=sr_1_1?crid=1CZMYVETLLB80&keywords=senia+hardwick&qid=1650911563&s=books&sprefix=senia+hardwick%2Cstripbooks%2C115&sr=1-1",
+    objectDetails:
+      "AN EXCHANGE IN DEMONOLOGY / Senia Hardwick / 92 Pages / $10",
+    text: [
+      {
+        text:
+          "A series of zines exploring the relationship between demonology, political theory, and the erotic." 
+      },
+      {
+        text:
+          "Through the first issue, Introduction to Erotic Demonology and the Ars Goetia, we begin our study of the occult by teaching you how to have sex with demons and give an overview of the philosophical stance and history of ideas in the zine."
+      },
+      {
+        text: 
+          "Demonology as Route to Unionization is the second zine in a collaboration between CLOAK and Senia Hardwick. Fictions, histories, political theory, and digital artwork coalesce in a brief reflection and instruction on the Ars Goetia and the function of observation."
+      },
+      {
+        text: 
+          "The final issue of An Exchange in Demonology; an Improvement of the Self and Others is a reflection on gifts, decapitation, and also includes divination instructions using the Ars Goetia."
+      }
+    ],
+    shortText: 
+      "An Exchange in Demonology [Print Edition] // A series of zines exploring the relationship between demonology, political theory, and the erotic."
+  }
 };
