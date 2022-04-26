@@ -19,7 +19,7 @@ export default function Footer() {
       <div className={styles.footerCenterLeft}></div>
       <div className={styles.footerCenterRight}>
         <div className={styles.text}>
-          In order to best support our collaborators,CLOAK is funded exclusively
+          In order to best support our collaborators, CLOAK is funded exclusively
           through our Patreon, with 100 percent of royalties being paid to
           authors & artists.
         </div>
