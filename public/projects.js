@@ -120,7 +120,7 @@ export const projects = {
     thumbWidth: "360",
     height: "600",
     width: "800",
-    projectUrl: "https://www.amazon.com/dp/057828555X/ref=sr_1_1?crid=1CZMYVETLLB80&keywords=senia+hardwick&qid=1650911563&s=books&sprefix=senia+hardwick%2Cstripbooks%2C115&sr=1-1",
+    projectUrl: "https://www.barnesandnoble.com/w/an-exchange-in-demonology-improvement-of-the-self-and-others-senia-hardwick/1141389601?ean=9780578285559",
     objectDetails:
       "AN EXCHANGE IN DEMONOLOGY / Senia Hardwick / 92 Pages / $10",
     text: [
