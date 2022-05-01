@@ -143,5 +143,34 @@ export const projects = {
     ],
     shortText: 
       "An Exchange in Demonology [Print Edition] // A series of zines exploring the relationship between demonology, political theory, and the erotic."
+  },
+  RELENTLESS: {
+    imgUrl: "/images/RELENTLESS.png",
+    title: "RELENTLESS",
+    url: "catalogue/RELENTLESS",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://c-l-o-a-k.itch.io/relentless",
+    objectDetails:
+      "RELENTLESS / Free Digital Release / Infinite Poem / Danika Stegeman LeMay",
+    text: [
+      {
+        className: "italic",
+        text:
+          "Reveal Yourself!" 
+      },
+      {
+        text:
+          "The text [ body ] is relentless. The text [ body ] is an animal that desires survival. The text [ body] is fierce and oppressive. The text [ body ] is continuous; it perseveres. Where are your blank spaces? With what do you fill them? Where is the mother of your body? Is the goddess of your variables a black hole like mine? The universe is infinite with permutations. Re-string the harps and loop the cups so they never empty."
+      },
+      {
+        text: 
+          "Danika Stegeman LeMay's text is mechanized by primitive probability functions and meticulous word banks to create an infinitely reproducing poem. Relentless in its forward march. There is always more to come."
+      }
+    ],
+    shortText: 
+      "RELENTLESS // The endless poetic assault. The text is an animal that desires survival."
   }
 };
