@@ -26,7 +26,7 @@ export const projects = {
     thumbWidth: "360",
     height: "600",
     width: "800",
-    projectUrl: "https://www.barnesandnoble.com/w/cloak-cloak/1141007222?ean=9780578360850",
+    projectUrl: "https://bookshop.org/books/cloak-on-the-textobject-its-concealment/9780578360850",
     objectDetails:
       "CLOAK: On the Textobject & its Concealment / Color / 22 pages / $10",
     text: [
@@ -120,7 +120,7 @@ export const projects = {
     thumbWidth: "360",
     height: "600",
     width: "800",
-    projectUrl: "https://www.barnesandnoble.com/w/an-exchange-in-demonology-improvement-of-the-self-and-others-senia-hardwick/1141389601?ean=9780578285559",
+    projectUrl: "https://bookshop.org/books/an-exchange-in-demonology-improvement-of-the-self-and-others/9780578285559",
     objectDetails:
       "AN EXCHANGE IN DEMONOLOGY / Senia Hardwick / 92 Pages / $10",
     text: [
@@ -172,5 +172,37 @@ export const projects = {
     ],
     shortText: 
       "RELENTLESS // The endless poetic assault. The text is an animal that desires survival."
+  },
+  POLICELUCIFER: {
+    imgUrl: "/images/PL-Coverspread.png",
+    title: "POLICELUCIFER",
+    url: "catalogue/POLICELUCIFER",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://bookshop.org/books/police-lucifer/9780578285528",
+    objectDetails:
+      "POLICE LUCIFER / William Watson / 44 pages / $8",
+    text: [
+      {
+        text:
+          "A digital conversation drifts on archaic CRT monitors. Basal AI composite-syntax duels itself in the spaces between Foucault's DISCIPLINE & PUNISH and Plato's FORMS. Humanity continues its de-evolution towards ambient stasis. Discoveries are rendered stillborn as the code of rhetoric is disabled." 
+      },
+      {
+        text:
+          "Within the miasma, Edmund Emil Kemper III has arrived. The metaphysical independent variable. The surveillant of horrific violence and flexuous plasticene abjection."
+      },
+      {
+        text:
+          "Where does depravity cross condolence? Where does the illogical become sentimental?"
+      },
+      {
+        text: 
+          "POLICE LUCIFER is the rogue transmission you were not supposed to catch."
+      }
+    ],
+    shortText: 
+      "POLICE LUCIFER // CLICK HERE TO DOWNLOAD ADDITIONAL AMORALITY DRIVERS"
   }
 };
