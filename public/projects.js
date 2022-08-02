@@ -204,5 +204,34 @@ export const projects = {
     ],
     shortText: 
       "POLICE LUCIFER // CLICK HERE TO DOWNLOAD ADDITIONAL AMORALITY DRIVERS"
-  }
+  },
+  BODIESLIKEMEAT: {
+    imgUrl: "/images/bodies.png",
+    title: "BODIESLIKEMEAT",
+    url: "/catalogue/BODIESLIKEMEAT",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://bookshop.org/books/bodies-like-meat/9798218027391",
+    objectDetails:
+      "Bodies Like Meat: RPG Death Simulator / B&W / 190 pages / $12",
+    text: [
+      {
+        className: "italic",
+        text:
+          "",
+      },
+      {
+        text:
+          "Bodies Like Meat is a game about exploration and investigation. As a group of scientists, the players will often find themselves encountering seemingly unexplainable events: cosmic horrors, grotesque environments, esoteric figures. All on behalf of a distant and secretive organization.",
+      },
+      {
+        text:
+          "The expedition party's task is to enter the Locale, investigate its key locations, collect data, follow leads, all with the hopes of discovering the source of the anomalous activity.",
+      }
+    ],
+    shortText:
+      "BODIES LIKE MEAT // The landscape watches you squirm. Your employers take note of every twist and contortion.",
+  },
 };
