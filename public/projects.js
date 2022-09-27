@@ -234,4 +234,32 @@ export const projects = {
     shortText:
       "BODIES LIKE MEAT // The landscape watches you squirm. Your employers take note of every twist and contortion.",
   },
+  EXTRAWBERRY: {
+    imgUrl: "/images/extrawberry.png",
+    title: "EXTRAWBERRY",
+    url: "catalogue/EXTRAWBERRY",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://c-l-o-a-k.itch.io/extrawberry",
+    objectDetails:
+      "EXTRAWBERRY / Brandan Griffin / Free Digital Release / Media-Scroll",
+    text: [
+      {
+        text:
+          "Extrawberry is a strawberry walkthrough, in full virtual realism." 
+      },
+      {
+        text:
+          "The berry functions as a playable text, or as a text that plays the reader's phenomenality like a game. Scrolling realizes the exo-strawberry, an exploded diagram of the actual strawberry's fruiting system of non-human 'I's: hormones, proteins, seeds, vines, transport channels. Glittered to life in this form, the exo-strawberry exists by virtue of the keyboard's ability to glyphically generate experiences beyond the human life-world, similar to WASD movement in gamespace. "
+      },
+      {
+        text:
+          "Emerging as three mutually-extrapolating forms—video, animated webcode, and typographically engineered pdf—this two-dimensional scroll thereby mounts a three-dimensional restructuring of anthropic space. A poem becomes an instruction manual for transmembering your POV between first-persons."
+      }
+    ],
+    shortText: 
+      "EXTRAWBERRY / A strawberry walkthrough, in full virtual realism."
+  },
 };
