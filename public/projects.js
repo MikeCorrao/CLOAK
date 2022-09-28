@@ -260,6 +260,6 @@ export const projects = {
       }
     ],
     shortText: 
-      "EXTRAWBERRY / A strawberry walkthrough, in full virtual realism."
+      "EXTRAWBERRY // A strawberry walkthrough, in full virtual realism. A congregation of downward motions. An effegy for the scrollbar."
   },
 };
