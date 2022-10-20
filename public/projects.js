@@ -262,4 +262,28 @@ export const projects = {
     shortText: 
       "EXTRAWBERRY // A strawberry walkthrough, in full virtual realism. A congregation of downward motions. An effegy for the scrollbar."
   },
+  OFFAL: {
+    imgUrl: "/images/Offal.png",
+    title: "OFFAL",
+    url: "catalogue/OFFAL",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://c-l-o-a-k.itch.io",
+    objectDetails:
+      "Offal Opacities / D.M. Closet / 56 Color Pages / $10",
+    text: [
+      {
+        text:
+          "The mirror is imperfect. Bodies require a medium to connect with departed spirits. But the surface is smeared by bugs and debris. Ludonarrative shadows flicker. Beneath the residue, the self emerges in unexpected blemishes."
+      },
+      {
+        text:
+          "Offal Opacities mixes three short essays (Crypt of the Glich, Pink Smear, and Karaoke Versions) each concerned with depictions of digital visibility, corporeal leakage, and unstable identity. All delivered as esoteric messages of technicolor design."
+      }
+    ],
+    shortText: 
+      "OFFAL OPACITIES // An intricate weave of lyrical, personal, and theoretical essays explorind digital visibility, corporeal leakage, and unstable identity authored by D.M. Closet."
+  },
 };
