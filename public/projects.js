@@ -270,7 +270,7 @@ export const projects = {
     thumbWidth: "360",
     height: "600",
     width: "800",
-    projectUrl: "https://c-l-o-a-k.itch.io",
+    projectUrl: "https://www.amazon.com/Offal-Opacities-D-M-Closet/dp/B0BJYM3SXZ/ref=sr_1_1?crid=275SWEFWN4R16&keywords=offal+opacities&qid=1666548540&sprefix=offal+opacities%2Caps%2C91&sr=8-1",
     objectDetails:
       "Offal Opacities / D.M. Closet / 56 Color Pages / $10",
     text: [
