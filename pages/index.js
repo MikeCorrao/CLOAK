@@ -18,6 +18,9 @@ export default function Home() {
           <br />
           Each work we publish is designed to best fit the medium of its
           release. Whether book, executable, or pdf.
+          <br />
+          <br />
+          <a href="https://cloak.wtf/catalogue/OFFAL">CHECK OUT OUR LATEST RELEASE</a>
         </p>
       </div>
     </>

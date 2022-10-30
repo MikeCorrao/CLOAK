@@ -48,130 +48,90 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
-  WRECKDOM: {
-    imgUrl: "/images/thumbnail.png",
-    title: "WRECKDOM",
-    url: "catalogue/WRECKDOM",
+  OFFAL: {
+    imgUrl: "/images/Offal.png",
+    title: "OFFAL",
+    url: "catalogue/OFFAL",
     thumbHeight: "270",
     thumbWidth: "360",
     height: "600",
     width: "800",
-    projectUrl: "https://c-l-o-a-k.itch.io/wreckdom",
+    projectUrl: "https://bookshop.org/p/books/offal-opacities-d-m-closet/18963750?ean=9798218072056",
     objectDetails:
-      "WRECKDOM / Free Digital Release / 31 Levels / Logan Berry",
+      "Offal Opacities / D.M. Closet / 56 Color Pages / $10",
     text: [
       {
         text:
-          "Through WRECKDOM, Logan Berry has written a work of intense confrontation and examination." 
+          "The mirror is imperfect. Bodies require a medium to connect with departed spirits. But the surface is smeared by bugs and debris. Ludonarrative shadows flicker. Beneath the residue, the self emerges in unexpected blemishes."
       },
       {
         text:
-          "Bodies dragged through disintegrating interfaces, eyes illuminated in a radioactive green, CCTV footage looping through the static in the air. WRECKDOM is a work of ultratheatricality, luring its audience into the digitized constraints of a primitive stage."
-      },
-      {
-        text: 
-        "Utilizing highly constrained and primitive game development tools, WRECKDOM has been designed with a certain abrasion in mind. The eyes strain and the ears bleed. We are all suffering in the esoterica of the watching eye."
+          "Offal Opacities mixes three short essays (Crypt of the Glich, Pink Smear, and Karaoke Versions) each concerned with depictions of digital visibility, corporeal leakage, and unstable identity. All delivered as esoteric messages of technicolor design."
       },
       {
         text:
-          "Please hold you're breath until the performance is finished."
+          <a href="https://www.amazon.co.uk/Offal-Opacities-D-M-Closet/dp/B0BJYM3SXZ/ref=sr_1_1?crid=1BM0FTE9XUUL9&keywords=offal+opacities&qid=1667153913&sprefix=offal+opacitie%2Caps%2C153&sr=8-1">UK VERSION AVAILABLE HERE</a>
       }
     ],
     shortText: 
-      "WRECKDOM // A work of intense confrontation and examination. Logan Berry articulates a new limb in the theater of surveillance."
+      "OFFAL OPACITIES // An intricate weave of lyrical, personal, and theoretical essays explorind digital visibility, corporeal leakage, and unstable identity authored by D.M. Closet."
   },
-  DEMONOLOGY: {
-    imgUrl: "/images/dem2.png",
-    title: "DEMONOLOGY",
-    url: "catalogue/DEMONOLOGY",
+  EXTRAWBERRY: {
+    imgUrl: "/images/extrawberry.png",
+    title: "EXTRAWBERRY",
+    url: "catalogue/EXTRAWBERRY",
     thumbHeight: "270",
     thumbWidth: "360",
     height: "600",
     width: "800",
-    projectUrl: "https://c-l-o-a-k.itch.io/an-exchange-in-demonology",
+    projectUrl: "https://c-l-o-a-k.itch.io/extrawberry",
     objectDetails:
-      "An Exchange in Demonology / Free Digital Release / Zine Trilogy / Senia Hardwick",
+      "EXTRAWBERRY / Brandan Griffin / Free Digital Release / Media-Scroll",
     text: [
       {
         text:
-          "An Exchange in Demonology; an Improvement of the Self and Other is a series of three zines exploring the relationship between demonology, political theory, and the erotic. Over the course of April 2022, each zine will be released in digital and printable formats." 
+          "Extrawberry is a strawberry walkthrough, in full virtual realism." 
       },
       {
         text:
-          "[1] Through the first issue, ​Introduction to Erotic Demonology and the Ars Goetia, we​​ begin our study of the occult by teaching you how to have sex with demons and give an overview of the philosophical stance and history of ideas in the zine."
+          "The berry functions as a playable text, or as a text that plays the reader's phenomenality like a game. Scrolling realizes the exo-strawberry, an exploded diagram of the actual strawberry's fruiting system of non-human 'I's: hormones, proteins, seeds, vines, transport channels. Glittered to life in this form, the exo-strawberry exists by virtue of the keyboard's ability to glyphically generate experiences beyond the human life-world, similar to WASD movement in gamespace. "
       },
       {
         text:
-          "[2] Demonology as Route to Unionization is the second zine in a collaboration between CLOAK and Senia Hardwick. Fictions, histories, political theory, and digital artwork coalesce in a brief reflection and instruction on the Ars Goetia and the function of observation." 
-      },
-      {
-        text:
-          "[3] The final issue of An Exchange in Demonology; an Improvement of the Self and Others is a reflection on gifts, decapitation, and also includes divination instructions using the Ars Goetia." 
-      },
-    ],
-    shortText: 
-      "An Exchange in Demonology // A series of zines exploring the relationship between demonology, political theory, and the erotic."
-  },
-  DEMONPRINT: {
-    imgUrl: "/images/dem.png",
-    title: "DEMONPRINT",
-    url: "catalogue/DEMONPRINT",
-    thumbHeight: "270",
-    thumbWidth: "360",
-    height: "600",
-    width: "800",
-    projectUrl: "https://bookshop.org/books/an-exchange-in-demonology-improvement-of-the-self-and-others/9780578285559",
-    objectDetails:
-      "AN EXCHANGE IN DEMONOLOGY / Senia Hardwick / 92 Pages / $10",
-    text: [
-      {
-        text:
-          "A series of zines exploring the relationship between demonology, political theory, and the erotic." 
-      },
-      {
-        text:
-          "Through the first issue, Introduction to Erotic Demonology and the Ars Goetia, we begin our study of the occult by teaching you how to have sex with demons and give an overview of the philosophical stance and history of ideas in the zine."
-      },
-      {
-        text: 
-          "Demonology as Route to Unionization is the second zine in a collaboration between CLOAK and Senia Hardwick. Fictions, histories, political theory, and digital artwork coalesce in a brief reflection and instruction on the Ars Goetia and the function of observation."
-      },
-      {
-        text: 
-          "The final issue of An Exchange in Demonology; an Improvement of the Self and Others is a reflection on gifts, decapitation, and also includes divination instructions using the Ars Goetia."
+          "Emerging as three mutually-extrapolating forms—video, animated webcode, and typographically engineered pdf—this two-dimensional scroll thereby mounts a three-dimensional restructuring of anthropic space. A poem becomes an instruction manual for transmembering your POV between first-persons."
       }
     ],
     shortText: 
-      "An Exchange in Demonology [Print Edition] // A series of zines exploring the relationship between demonology, political theory, and the erotic."
+      "EXTRAWBERRY // A strawberry walkthrough, in full virtual realism. A congregation of downward motions. An effegy for the scrollbar."
   },
-  RELENTLESS: {
-    imgUrl: "/images/RELENTLESS.png",
-    title: "RELENTLESS",
-    url: "catalogue/RELENTLESS",
+  BODIESLIKEMEAT: {
+    imgUrl: "/images/bodies.png",
+    title: "BODIESLIKEMEAT",
+    url: "/catalogue/BODIESLIKEMEAT",
     thumbHeight: "270",
     thumbWidth: "360",
     height: "600",
     width: "800",
-    projectUrl: "https://c-l-o-a-k.itch.io/relentless",
+    projectUrl: "https://bookshop.org/books/bodies-like-meat/9798218027391",
     objectDetails:
-      "RELENTLESS / Free Digital Release / Infinite Poem / Danika Stegeman LeMay",
+      "Bodies Like Meat: RPG Death Simulator / B&W / 190 pages / $12",
     text: [
       {
         className: "italic",
         text:
-          "Reveal Yourself!" 
+          "",
       },
       {
         text:
-          "The text [ body ] is relentless. The text [ body ] is an animal that desires survival. The text [ body] is fierce and oppressive. The text [ body ] is continuous; it perseveres. Where are your blank spaces? With what do you fill them? Where is the mother of your body? Is the goddess of your variables a black hole like mine? The universe is infinite with permutations. Re-string the harps and loop the cups so they never empty."
+          "Bodies Like Meat is a game about exploration and investigation. As a group of scientists, the players will often find themselves encountering seemingly unexplainable events: cosmic horrors, grotesque environments, esoteric figures. All on behalf of a distant and secretive organization.",
       },
       {
-        text: 
-          "Danika Stegeman LeMay's text is mechanized by primitive probability functions and meticulous word banks to create an infinitely reproducing poem. Relentless in its forward march. There is always more to come."
+        text:
+          "The expedition party's task is to enter the Locale, investigate its key locations, collect data, follow leads, all with the hopes of discovering the source of the anomalous activity.",
       }
     ],
-    shortText: 
-      "RELENTLESS // The endless poetic assault. The text is an animal that desires survival."
+    shortText:
+      "BODIES LIKE MEAT // The landscape watches you squirm. Your employers take note of every twist and contortion.",
   },
   POLICELUCIFER: {
     imgUrl: "/images/PL-Coverspread.png",
@@ -205,85 +165,129 @@ export const projects = {
     shortText: 
       "POLICE LUCIFER // CLICK HERE TO DOWNLOAD ADDITIONAL AMORALITY DRIVERS"
   },
-  BODIESLIKEMEAT: {
-    imgUrl: "/images/bodies.png",
-    title: "BODIESLIKEMEAT",
-    url: "/catalogue/BODIESLIKEMEAT",
+  RELENTLESS: {
+    imgUrl: "/images/RELENTLESS.png",
+    title: "RELENTLESS",
+    url: "catalogue/RELENTLESS",
     thumbHeight: "270",
     thumbWidth: "360",
     height: "600",
     width: "800",
-    projectUrl: "https://bookshop.org/books/bodies-like-meat/9798218027391",
+    projectUrl: "https://c-l-o-a-k.itch.io/relentless",
     objectDetails:
-      "Bodies Like Meat: RPG Death Simulator / B&W / 190 pages / $12",
+      "RELENTLESS / Free Digital Release / Infinite Poem / Danika Stegeman LeMay",
     text: [
       {
         className: "italic",
         text:
-          "",
+          "Reveal Yourself!" 
       },
       {
         text:
-          "Bodies Like Meat is a game about exploration and investigation. As a group of scientists, the players will often find themselves encountering seemingly unexplainable events: cosmic horrors, grotesque environments, esoteric figures. All on behalf of a distant and secretive organization.",
+          "The text [ body ] is relentless. The text [ body ] is an animal that desires survival. The text [ body] is fierce and oppressive. The text [ body ] is continuous; it perseveres. Where are your blank spaces? With what do you fill them? Where is the mother of your body? Is the goddess of your variables a black hole like mine? The universe is infinite with permutations. Re-string the harps and loop the cups so they never empty."
       },
       {
-        text:
-          "The expedition party's task is to enter the Locale, investigate its key locations, collect data, follow leads, all with the hopes of discovering the source of the anomalous activity.",
+        text: 
+          "Danika Stegeman LeMay's text is mechanized by primitive probability functions and meticulous word banks to create an infinitely reproducing poem. Relentless in its forward march. There is always more to come."
       }
     ],
-    shortText:
-      "BODIES LIKE MEAT // The landscape watches you squirm. Your employers take note of every twist and contortion.",
+    shortText: 
+      "RELENTLESS // The endless poetic assault. The text is an animal that desires survival."
   },
-  EXTRAWBERRY: {
-    imgUrl: "/images/extrawberry.png",
-    title: "EXTRAWBERRY",
-    url: "catalogue/EXTRAWBERRY",
+  DEMONPRINT: {
+    imgUrl: "/images/dem.png",
+    title: "DEMONPRINT",
+    url: "catalogue/DEMONPRINT",
     thumbHeight: "270",
     thumbWidth: "360",
     height: "600",
     width: "800",
-    projectUrl: "https://c-l-o-a-k.itch.io/extrawberry",
+    projectUrl: "https://bookshop.org/books/an-exchange-in-demonology-improvement-of-the-self-and-others/9780578285559",
     objectDetails:
-      "EXTRAWBERRY / Brandan Griffin / Free Digital Release / Media-Scroll",
+      "AN EXCHANGE IN DEMONOLOGY / Senia Hardwick / 92 Pages / $10",
     text: [
       {
         text:
-          "Extrawberry is a strawberry walkthrough, in full virtual realism." 
+          "A series of zines exploring the relationship between demonology, political theory, and the erotic." 
       },
       {
         text:
-          "The berry functions as a playable text, or as a text that plays the reader's phenomenality like a game. Scrolling realizes the exo-strawberry, an exploded diagram of the actual strawberry's fruiting system of non-human 'I's: hormones, proteins, seeds, vines, transport channels. Glittered to life in this form, the exo-strawberry exists by virtue of the keyboard's ability to glyphically generate experiences beyond the human life-world, similar to WASD movement in gamespace. "
+          "Through the first issue, Introduction to Erotic Demonology and the Ars Goetia, we begin our study of the occult by teaching you how to have sex with demons and give an overview of the philosophical stance and history of ideas in the zine."
       },
       {
-        text:
-          "Emerging as three mutually-extrapolating forms—video, animated webcode, and typographically engineered pdf—this two-dimensional scroll thereby mounts a three-dimensional restructuring of anthropic space. A poem becomes an instruction manual for transmembering your POV between first-persons."
+        text: 
+          "Demonology as Route to Unionization is the second zine in a collaboration between CLOAK and Senia Hardwick. Fictions, histories, political theory, and digital artwork coalesce in a brief reflection and instruction on the Ars Goetia and the function of observation."
+      },
+      {
+        text: 
+          "The final issue of An Exchange in Demonology; an Improvement of the Self and Others is a reflection on gifts, decapitation, and also includes divination instructions using the Ars Goetia."
       }
     ],
     shortText: 
-      "EXTRAWBERRY // A strawberry walkthrough, in full virtual realism. A congregation of downward motions. An effegy for the scrollbar."
+      "AN EXCHANGE IN DEMONOLOGY [Print Edition] // A series of zines exploring the relationship between demonology, political theory, and the erotic."
   },
-  OFFAL: {
-    imgUrl: "/images/Offal.png",
-    title: "OFFAL",
-    url: "catalogue/OFFAL",
+  DEMONOLOGY: {
+    imgUrl: "/images/dem2.png",
+    title: "DEMONOLOGY",
+    url: "catalogue/DEMONOLOGY",
     thumbHeight: "270",
     thumbWidth: "360",
     height: "600",
     width: "800",
-    projectUrl: "https://bookshop.org/p/books/offal-opacities-d-m-closet/18963750?ean=9798218072056",
+    projectUrl: "https://c-l-o-a-k.itch.io/an-exchange-in-demonology",
     objectDetails:
-      "Offal Opacities / D.M. Closet / 56 Color Pages / $10",
+      "An Exchange in Demonology / Free Digital Release / Zine Trilogy / Senia Hardwick",
     text: [
       {
         text:
-          "The mirror is imperfect. Bodies require a medium to connect with departed spirits. But the surface is smeared by bugs and debris. Ludonarrative shadows flicker. Beneath the residue, the self emerges in unexpected blemishes."
+          "An Exchange in Demonology; an Improvement of the Self and Other is a series of three zines exploring the relationship between demonology, political theory, and the erotic. Over the course of April 2022, each zine will be released in digital and printable formats." 
       },
       {
         text:
-          "Offal Opacities mixes three short essays (Crypt of the Glich, Pink Smear, and Karaoke Versions) each concerned with depictions of digital visibility, corporeal leakage, and unstable identity. All delivered as esoteric messages of technicolor design."
+          "[1] Through the first issue, ​Introduction to Erotic Demonology and the Ars Goetia, we​​ begin our study of the occult by teaching you how to have sex with demons and give an overview of the philosophical stance and history of ideas in the zine."
+      },
+      {
+        text:
+          "[2] Demonology as Route to Unionization is the second zine in a collaboration between CLOAK and Senia Hardwick. Fictions, histories, political theory, and digital artwork coalesce in a brief reflection and instruction on the Ars Goetia and the function of observation." 
+      },
+      {
+        text:
+          "[3] The final issue of An Exchange in Demonology; an Improvement of the Self and Others is a reflection on gifts, decapitation, and also includes divination instructions using the Ars Goetia." 
+      },
+    ],
+    shortText: 
+      "AN EXCHANGE IN DEMONOLOGY // A series of zines exploring the relationship between demonology, political theory, and the erotic."
+  },
+  WRECKDOM: {
+    imgUrl: "/images/thumbnail.png",
+    title: "WRECKDOM",
+    url: "catalogue/WRECKDOM",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://c-l-o-a-k.itch.io/wreckdom",
+    objectDetails:
+      "WRECKDOM / Free Digital Release / 31 Levels / Logan Berry",
+    text: [
+      {
+        text:
+          "Through WRECKDOM, Logan Berry has written a work of intense confrontation and examination." 
+      },
+      {
+        text:
+          "Bodies dragged through disintegrating interfaces, eyes illuminated in a radioactive green, CCTV footage looping through the static in the air. WRECKDOM is a work of ultratheatricality, luring its audience into the digitized constraints of a primitive stage."
+      },
+      {
+        text: 
+        "Utilizing highly constrained and primitive game development tools, WRECKDOM has been designed with a certain abrasion in mind. The eyes strain and the ears bleed. We are all suffering in the esoterica of the watching eye."
+      },
+      {
+        text:
+          "Please hold you're breath until the performance is finished."
       }
     ],
     shortText: 
-      "OFFAL OPACITIES // An intricate weave of lyrical, personal, and theoretical essays explorind digital visibility, corporeal leakage, and unstable identity authored by D.M. Closet."
+      "WRECKDOM // A work of intense confrontation and examination. Logan Berry articulates a new limb in the theater of surveillance."
   },
 };

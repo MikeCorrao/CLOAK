@@ -16,8 +16,9 @@ body {
 }
 
 a {
-  color: inherit;
+  color: deepskyblue;
   text-decoration: none;
+  cursor: pointer;
 }
 
 * {
