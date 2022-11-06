@@ -20,6 +20,15 @@ export default function Contact() {
           from Print Books, PDFs, Browser-Based, Executables, or whatever other
           medium conceived.
         </p>
+        <br />
+        <a href="https://www.instagram.com/cloak_wtf/" target="_blank">
+          INSTAGRAM
+        </a>
+        <br />
+        <br />
+        <a href="https://www.twitter.com/cloak_wtf/" target="_blank">
+          TWITTER
+        </a>
       </div>
     </div>
   );
