@@ -48,6 +48,30 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+  ASSETPAK: {
+    imgUrl: "/images/ASSETPAK.jpg",
+    title: "ASSETPAK",
+    url: "catalogue/ASSETPAK",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://c-l-o-a-k.itch.io/cloak-asset-pak",
+    objectDetails:
+      "CLOAK ASSET PAK / 150+ IN-HOUSE ASSETS / $1",
+    text: [
+      {
+        text:
+          "The CLOAK ASSET PAK collects over 150 'OBJEKTS' and 'SKREENS' created and used by the CLOAK.WTF team to assemble digital and print releases."
+      },
+      {
+        text:
+          "Included assets range from crude 3d objects to distorted film stills to enigmatic wireframes. Many of which have appeared in past releases such as the Self-Titled and Bodies Like Meat."
+      },
+    ],
+    shortText: 
+      "CLOAK ASSET PAK // A collection of 150+ assets created and used by CLOAK to assemble our digital and print releases"
+  },
   OFFAL: {
     imgUrl: "/images/Offal.png",
     title: "OFFAL",
