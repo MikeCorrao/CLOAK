@@ -58,7 +58,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://c-l-o-a-k.itch.io/cloak-asset-pak",
     objectDetails:
-      "CLOAK ASSET PAK / 150+ IN-HOUSE ASSETS / $1",
+      "CLOAK ASSET PAK / 150+ IN-HOUSE ASSETS / $1.00",
     text: [
       {
         text:
