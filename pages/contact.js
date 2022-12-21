@@ -21,12 +21,12 @@ export default function Contact() {
           medium conceived.
         </p>
         <br />
-        <a href="https://www.instagram.com/cloak_wtf/" target="_blank">
+        <a href="https://www.instagram.com/cloak_wtf/" target="_blank" rel="noreferrer">
           INSTAGRAM
         </a>
         <br />
         <br />
-        <a href="https://www.twitter.com/cloak_wtf/" target="_blank">
+        <a href="https://www.twitter.com/cloak_wtf/" target="_blank" rel="noreferrer">
           TWITTER
         </a>
       </div>
