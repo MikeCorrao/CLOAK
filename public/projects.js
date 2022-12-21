@@ -70,7 +70,7 @@ export const projects = {
       },
     ],
     shortText: 
-      "CLOAK ASSET PAK // A collection of 150+ assets created and used by CLOAK to assemble our digital and print releases"
+      "CLOAK ASSET PAK // A collection of 150+ assets created and used by CLOAK to assemble our digital and print releases."
   },
   OFFAL: {
     imgUrl: "/images/Offal.png",
