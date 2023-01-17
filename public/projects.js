@@ -48,6 +48,54 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+  SCRIMS: {
+    imgUrl: "/images/scrims.png",
+    title: "SCRIMS",
+    url: "/catalogue/SCRIMS",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://c-l-o-a-k.itch.io/scrims",
+    objectDetails:
+      "SCRIMS / Garett Strickland / Digital / Free Digital Release / Bard╽o╿ic Membrane",
+    text: [
+      {
+        className: "italic",
+        text:
+          "Reconstitutive",
+      },
+      {
+        className: "italic",
+        text:
+          "bard╽o╿ic",
+      },
+      {
+        className: "italic",
+        text:
+          "membrane",
+      },
+      {
+        className: "italic",
+        text:
+          "echoes",
+      },
+      {
+        text:
+          "SCRIMS explores the inherently mysterious nature of digital artifacts. Presented as a downloadable folder of images, videos, audio files, pdfs, the materials begin to form an elusive zeitgeist.",
+      },
+      {
+        text:
+          "The text forms as the documents of your investigation, all of the information laid out in front of you, arranged by something just out of view.",
+      },
+      { 
+        text: 
+          "Access the SCRIMS, riffle through the folder, listen to the crooning voices and buzzing static." 
+      },
+    ],
+    shortText:
+      "SCRIMS // Access the SCRIMS, riffle through the folder, listen to the crooning voices and buzzing static.",
+  },
   ASSETPAK: {
     imgUrl: "/images/ASSETPAK.jpg",
     title: "ASSETPAK",
