@@ -20,7 +20,7 @@ export default function Home() {
           release. Whether book, executable, or pdf.
           <br />
           <br />
-          <a href="https://cloak.wtf/catalogue/OFFAL">CHECK OUT OUR LATEST RELEASE</a>
+          <a href="https://cloak.wtf/catalogue/SCRIMS">CHECK OUT OUR LATEST RELEASE</a>
         </p>
       </div>
     </>
