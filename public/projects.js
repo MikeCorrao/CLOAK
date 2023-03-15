@@ -48,6 +48,42 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+  THITHOGS: {
+    imgUrl: "/images/THITHOGS.png",
+    title: "THITHOGS",
+    url: "/catalogue/THITHOGS",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://bookshop.org/p/books/the-house-inside-the-house-of-gregor-schneider-gary-j-shipley/19794596?ean=9798218151829",
+    objectDetails:
+      "THE HOUSE INSIDE THE HOUSE OF GREGOR SCHNEIDER / Gary J. Shipley / 236 Pages / $12",
+    text: [
+      {
+        text:
+          "A narrator is trapped inside a house, where their search for an exit ends up only adding to its walls, its ceilings, its floors, its rooms.",
+      },
+      {
+        text:
+          "The House Inside The House of Gregor Schneider is a conceptual nouveau roman constructed almost entirely from appropriated writings on the work of Gregor Schneider, primarily encounters with Die Familie Schneider and Haus u r.",
+      },
+      { 
+        text: 
+          "The texts come from various sources, including Schneider himself. All names and second-person references have been replaced with the first-person. Past and future tenses have become present-tense. ‘House’ is sometimes replaced by ‘room.’ Words have been pluralised, singularised, or erased wherever necessary." 
+      },
+      { 
+        text: 
+          "For both the conceptualist writer and practitioners of the nouveau roman, objects take on a position of prominence. For the former, words are objects. For the latter, objects come to the fore as plot and character are made subsidiary. In merging these theoretical standpoints (while also mirroring Schneider’s own artistic practice), THITHOGS places words/objects behind or in front of each other until they are no longer tools of orientation but disorientation. " 
+      },
+      { 
+        text: 
+          "There are only the objects and the narrator’s/artist’s subservience to them. There is only the coalescing of objects/words and our being lost inside them. There is no around or through or retreat, only deeper inside the ever-growing yet ever-shrinking surface." 
+      },
+    ],
+    shortText:
+      "THE HOUSE INSIDE THE HOUSE OF GREGOR SCHNEIDER // A narrator is trapped inside a house, where their search for an exit ends up only adding to its walls, its ceilings, its floors, its rooms.",
+  },
   SCRIMS: {
     imgUrl: "/images/scrims.png",
     title: "SCRIMS",
