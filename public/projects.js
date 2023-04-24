@@ -48,6 +48,30 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+  HIDE: {
+    imgUrl: "/images/hthab.png",
+    title: "HIDE",
+    url: "/catalogue/HIDE",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://c-l-o-a-k.itch.io/how-to-hide-a-body",
+    objectDetails:
+      "how to hide a body / Wrath of Persephone / Neural Pathway / Free Digital Release",
+    text: [
+      {
+        text:
+          "A cavernous text exploring themes of suicide, surveillance, and the right to disappear.",
+      },
+      {
+        text:
+          "how to hide a body takes form through a series of dark alcoves illuminated briefly by the narrator's voice.",
+      },
+    ],
+    shortText:
+      "how to hide a body // In search of an escape from the totality of the geopolitical gaze",
+  },
   THITHOGS: {
     imgUrl: "/images/THITHOGS.png",
     title: "THITHOGS",
