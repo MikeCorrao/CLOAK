@@ -68,6 +68,10 @@ export const projects = {
         text:
           "how to hide a body takes form through a series of dark alcoves illuminated briefly by the narrator's voice.",
       },
+      {
+        text:
+          "TW: Suicide",
+      },
     ],
     shortText:
       "how to hide a body // In search of an escape from the totality of the geopolitical gaze",
