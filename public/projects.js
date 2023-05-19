@@ -48,6 +48,41 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+  UMBILICUS: {
+    imgUrl: "/images/UMBILICUS.png",
+    title: "UMBILICUS",
+    url: "/catalogue/UMBILICUS",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://c-l-o-a-k.itch.io/unto-the-umbilicus",
+    objectDetails:
+      "UNTO THE UMBILICUS / Snatch Wylden / Labyrinth of the Poor Image / Free Digital Release",
+    text: [
+      {
+        text:
+          "INTO / THRU / BEYOND GRIEF",
+      },
+      {
+        text:
+          "After the death of his mother, Snatch Wylden was sent into a spiral of creativity as his brain worked to cope with the persistent numbing process.",
+      },
+      {
+        text:
+          "UNTO THE UMBILICUS is an early outcropping of that experience. It is a visual representation of both the physical processes and transcendental de-alignments within death. It is an exercise in (and) of the grief, atonement, and consolation an outsider-to-death must take on.",
+      },
+      {
+        text:
+          "Spatialized through the inherently sterility of the Windows file explorer, these hypervisual scenes rise as esoteric landmarks within the droning LEFT and RIGHT. Every fork in the path, another monument / effigy / altar into, through, beyond grief.",
+      },
+      {
+        text: "There is always something more to find. Another turn unexamined or alcove unlit. Enter the UMBILICUS and feel for the language carved beyond the veil of your gaze. Embrace the poor image."
+      },
+    ],
+    shortText:
+      "UNTO THE UMBILICUS // There is always something more to find. Another turn unexamined or alcove unlit. Enter the UMBILICUS and feel for the language carved beyond the veil of your gaze. Embrace the poor image.",
+  },
   HIDE: {
     imgUrl: "/images/hthab.png",
     title: "HIDE",
