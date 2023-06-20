@@ -48,6 +48,34 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+DARKNESS: {
+  imgUrl: "/images/DOUD-1.png",
+  title: "DARKNESS",
+  url: "/catalogue/DARKNESS",
+  thumbHeight: "270",
+  thumbWidth: "360",
+  height: "600",
+  width: "800",
+  projectUrl: "https://bookshop.org/p/books/dance-of-utter-darkness-cloak/20123879?ean=9798218206352",
+  objectDetails:
+    "Dance of Utter Darkness / 36 Pages / $9",
+  text: [
+    {
+      text:
+        "Dance of Utter Darkness is a book of subterranean violence and brutalist design. Marked by harsh cuts and dark alcoves.",
+    },
+    {
+      text:
+        "In the private void of the sewers, two cops scry new crime and punishment from the entrials of sacrified critters. Threading language from the exposed flesh into new systems of control.",
+    },
+    {
+      text:
+        "You do what you can and at the end Fanon's ghost will be waiting for you.",
+    },
+  ],
+  shortText:
+    "DANCE OF UTTER DARKNESS / Two cops scry new crime and punishment from the entrails of sacrified critters.",
+  },
   UMBILICUS: {
     imgUrl: "/images/UMBILICUS.png",
     title: "UMBILICUS",
