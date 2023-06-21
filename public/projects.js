@@ -56,7 +56,7 @@ DARKNESS: {
   thumbWidth: "360",
   height: "600",
   width: "800",
-  projectUrl: "https://bookshop.org/p/books/dance-of-utter-darkness-cloak/20123879?ean=9798218206352",
+  projectUrl: "https://www.barnesandnoble.com/w/dance-of-utter-darkness-cloak/1143586688?ean=9798218206352",
   objectDetails:
     "Dance of Utter Darkness / 36 Pages / $9",
   text: [
