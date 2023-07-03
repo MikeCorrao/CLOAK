@@ -171,6 +171,11 @@ DARKNESS: {
         text: 
           "There are only the objects and the narrator’s/artist’s subservience to them. There is only the coalescing of objects/words and our being lost inside them. There is no around or through or retreat, only deeper inside the ever-growing yet ever-shrinking surface." 
       },
+      ,
+      {
+        text:
+        <a href="https://www.full-stop.net/2023/07/03/reviews/soni-wadhwa/the-house-inside-the-house-of-gregor-schneider-gary-j-shipley/">REVIEW BY SONI WADHWA @ FULL STOP</a>,
+      },
     ],
     shortText:
       "THE HOUSE INSIDE THE HOUSE OF GREGOR SCHNEIDER // A narrator is trapped inside a house, where their search for an exit ends up only adding to its walls, its ceilings, its floors, its rooms.",
@@ -327,7 +332,11 @@ DARKNESS: {
       {
         text:
           "The expedition party's task is to enter the Locale, investigate its key locations, collect data, follow leads, all with the hopes of discovering the source of the anomalous activity.",
-      }
+      },
+      {
+        text:
+        <a href="https://fckyrbookclub.substack.com/p/lucifers-meat">REVIEW BY FCK YR BOOKCLUB</a>,
+      },
     ],
     shortText:
       "BODIES LIKE MEAT // The landscape watches you squirm. Your employers take note of every twist and contortion.",
@@ -359,7 +368,11 @@ DARKNESS: {
       {
         text: 
           "POLICE LUCIFER is the rogue transmission you were not supposed to catch."
-      }
+      },
+      {
+        text:
+        <a href="https://fckyrbookclub.substack.com/p/lucifers-meat">REVIEW BY FCK YR BOOKCLUB</a>,
+      },
     ],
     shortText: 
       "POLICE LUCIFER // CLICK HERE TO DOWNLOAD ADDITIONAL AMORALITY DRIVERS"
