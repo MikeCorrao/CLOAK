@@ -20,7 +20,10 @@ export default function Home() {
           release. Whether book, executable, or pdf.
           <br />
           <br />
-          <a href="https://bookshop.org/p/books/dance-of-utter-darkness-cloak/20123879?ean=9798218206352" target="_blank" rel="noreferrer">CHECK OUT OUR LATEST RELEASE</a>
+          Our titles are now available through <a href="https://asterismbooks.com/publisher/cloak" target="_blank" rel="noreferrer">ASTERISM</a>
+          <br />
+          <br />
+          <a href="https://bookshop.org/p/books/panopticon-fragments-jeremy-bentham/20536933?ean=9798218267605" target="_blank" rel="noreferrer">CHECK OUT OUR LATEST RELEASE</a>
         </p>
       </div>
     </>

@@ -48,6 +48,30 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+  PANOPTICON: {
+    imgUrl: "/images/panoptic.png",
+    title: "PANOPTICON",
+    url: "/catalogue/PANOPTICON",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://bookshop.org/p/books/panopticon-fragments-jeremy-bentham/20536933?ean=9798218267605",
+    objectDetails:
+      "Panopticon [fragments] / 114 Pages / $9",
+    text: [
+      {
+        text:
+          "For almost a quarter of a century, utilitarian philosopher Jeremy Bentham attempted to acquire funding and goverment assistance in building an unorthodox prison of ambiguous surveillance and guard. This new text captures fragments of his original proposal and the various correspondence he wrote throughout the years he spent campaigning for the prison's construction.",
+      },
+      {
+        text:
+          "Bentham's Panopticon is a compelling example of pre-modern thought around visibility and concealment, eventually acting as a central metaphor within Foucault's writings on society and control. Here, re-examined through the virulent design of the multidisciplinary publishing project, CLOAK.",
+      },
+    ],
+    shortText:
+      "PANOPTICON [fragments] / Bentham's Panopticon is a compelling example of pre-modern thought around visibility and concealment. Here, re-examined through the virulent design of the multidisciplinary publishing project, CLOAK.",
+    },
 DARKNESS: {
   imgUrl: "/images/DOUD-1.png",
   title: "DARKNESS",
