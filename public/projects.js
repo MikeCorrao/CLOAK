@@ -70,7 +70,7 @@ export const projects = {
       },
     ],
     shortText:
-      "PANOPTICON [fragments] / Bentham's Panopticon is a compelling example of pre-modern thought around visibility and concealment. Here, re-examined through the virulent design of the multidisciplinary publishing project, CLOAK.",
+      "PANOPTICON [fragments] / Bentham's Panopticon is a compelling example of pre-modern thought around visibility and surveillance. Here, re-examined through the virulent design of the multidisciplinary publishing project, CLOAK.",
     },
 DARKNESS: {
   imgUrl: "/images/DOUD-1.png",
