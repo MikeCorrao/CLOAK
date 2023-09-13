@@ -62,7 +62,7 @@ export const projects = {
     text: [
       {
         text:
-          "For almost a quarter of a century, utilitarian philosopher Jeremy Bentham attempted to acquire funding and goverment assistance in building an unorthodox prison of ambiguous surveillance and guard. This new text captures fragments of his original proposal and the various correspondence he wrote throughout the years he spent campaigning for the prison's construction.",
+          "For almost a quarter of a century, utilitarian philosopher Jeremy Bentham attempted to acquire funding and government assistance in building an unorthodox prison of ambiguous surveillance and guard. This new text captures fragments of his original proposal and the various correspondence he wrote throughout the years he spent campaigning for the prison's construction.",
       },
       {
         text:
