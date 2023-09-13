@@ -33,11 +33,11 @@ export default function Signal() {
         </p>
 
         <Link href="/catalogue/CLOAK" target="_blank" rel="noreferrer">
-          <a className={styles.signalLink}>
+          <p className={styles.signalLink}>
             To learn more, consider purchasing our introductory release.
-          </a>
+          </p>
         </Link>
-        
+
         <p>
         <br />
         <br />
