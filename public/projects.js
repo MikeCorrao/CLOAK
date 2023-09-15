@@ -56,7 +56,7 @@ export const projects = {
     thumbWidth: "360",
     height: "600",
     width: "800",
-    projectUrl: "https://asterismbooks.com/product/panopticon-fragments-jeremy-bentham",
+    projectUrl: "https://bookshop.org/p/books/panopticon-fragments-jeremy-bentham/20536933?ean=9798218267605",
     objectDetails:
       "Panopticon [fragments] / 114 Pages / $9",
     text: [
