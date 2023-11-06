@@ -55,7 +55,7 @@ export default function Signal() {
         <br />
         <br />
         <br />
-         We would like to thank German Sierra, Daymian Snowden, Logan Berry, William Watson, Danika Stegeman LeMay, Michael and Adrienne Gower, Chase P-G, Tristan James, Feral Dove, Logan Jones, Jace Britain, Jake Reber, and Alec Vohnoutka for their support as material witnesses to the mass beneath the cloak.
+         We would like to thank German Sierra, Daymian Snowden, Logan Berry, William Watson, Danika Stegeman LeMay, Michael and Adrienne Gower, Chase P-G, Tristan James, Feral Dove, Logan Jones, Jace Britain, Jake Reber, Jared Billings, and Alec Vohnoutka for their support as material witnesses to the mass beneath the cloak.
         </p>
 
       </div>
