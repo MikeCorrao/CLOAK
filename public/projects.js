@@ -199,6 +199,11 @@ DARKNESS: {
       {
         text:
         <a href="https://www.full-stop.net/2023/07/03/reviews/soni-wadhwa/the-house-inside-the-house-of-gregor-schneider-gary-j-shipley/">REVIEW BY SONI WADHWA @ FULL STOP</a>,
+      }
+      ,
+      {
+        text:
+        <a href="https://qboxo.substack.com/p/notes-on-isolationloneliness">REVIEW BY COREY QURESHI</a>,
       },
     ],
     shortText:
@@ -299,7 +304,11 @@ DARKNESS: {
       {
         text:
           <a href="https://www.amazon.co.uk/Offal-Opacities-D-M-Closet/dp/B0BJYM3SXZ/ref=sr_1_1?crid=1BM0FTE9XUUL9&keywords=offal+opacities&qid=1667153913&sprefix=offal+opacitie%2Caps%2C153&sr=8-1">UK VERSION AVAILABLE HERE</a>
-      }
+      },
+      {
+        text:
+        <a href="https://fecundmag.com/dust-gathers-in-boils">REVIEW BY PHIL SPOTSWOOD</a>,
+      },
     ],
     shortText: 
       "OFFAL OPACITIES // An intricate weave of lyrical, personal, and theoretical essays explorind digital visibility, corporeal leakage, and unstable identity authored by D.M. Closet."
