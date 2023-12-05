@@ -48,6 +48,34 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+  NEWUTOPIA: {
+    imgUrl: "/images/utopia.png",
+    title: "NEWUTOPIA",
+    url: "/catalogue/NEWUTOPIA",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://bookshop.org/p/books/the-new-utopia-j-billings/20857942?ean=9798218302924",
+    objectDetails:
+      "The New Utopia / J. Billings / 96 Pages / $9",
+    text: [
+      {
+        text:
+          "The New Utopia is a mosaic descent into the fringes of the underworld. Two detectives stalk through the reality of their own dreams. A murdering spiritualist converses with his victim. Street addresses go missing. Abandoned buildings speak to one another. Voyeuristic loners mythologize what they see in the shadows. And at the center of it all is one woman.",
+      },
+      {
+        text:
+          "In his debut novel, J. Billings catalogues the unseen alcoves of the subterranean. Staring back into the gaze of the surveillance camera, deciphering its memories, and opening a portal into the labyrinthine world just outside our grasp.",
+      },
+      {
+        text:
+          "It is too late to stop. The explosion of the universe has already happened. This is the mutation.",
+      },
+    ],
+    shortText:
+      "THE NEW UTOPIA / A mosaic descent into the fringes of the underworld. Two detectives stalk through the reality of their own dreams. A murdering spiritualist converses with his victim. Street addresses go missing. Abandoned buildings speak to one another. Voyeuristic loners mythologize what they see in the shadows. And at the center of it all is one woman.",
+    },
   PANOPTICON: {
     imgUrl: "/images/panoptic.png",
     title: "PANOPTICON",
