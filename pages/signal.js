@@ -23,7 +23,7 @@ export default function Signal() {
         <p>
           Across this medium, the many mediums contained within it, 
           the literary-object becomes multi-functional. First, as an independent 
-          entity. Something that's value is not tethered to the subject. 
+          entity. Something that`s value is not tethered to the subject. 
           Autonomous / at times unobserved. Then, as a subject-in-itself, 
           projecting its will back onto the reader. Turning them into something 
           viewed, read, watched. A participant, willing or not, in the creation 
@@ -34,7 +34,7 @@ export default function Signal() {
 
         <p>
           The CLOAK engenders visibility on the terms of the observed. 
-          It's creation is inevitably digital, not unlike most contemporary
+          Its creation is inevitably digital, not unlike most contemporary
           literature. The text is written on a computer. In Microsoft Word, 
           Google Docs, Notepad, Libre. Its appearance is designed on InDesign, 
           Powerpoint, Affinity, Twine, Rhino. Its form is produced by IngramSpark, 
