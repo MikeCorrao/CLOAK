@@ -15,19 +15,22 @@ export default function Contact() {
         </p>
         <p>
           {" "}
-          Submissions are open to unconventional works concerned with
-          concealment, visibility, and/or surveillance. We are open to all forms
-          from Print Books, PDFs, Browser-Based, Executables, or whatever other
-          medium conceived.
+          Submissions are open to unconventional works in all forms print and digital concerned with
+          themes of visibility and concealment. 
         </p>
         <br />
         <a href="https://www.instagram.com/cloak_wtf/" target="_blank" rel="noreferrer">
-          INSTAGRAM
+          FOLLOW OUR INSTAGRAM
         </a>
         <br />
         <br />
         <a href="https://www.twitter.com/cloak_wtf/" target="_blank" rel="noreferrer">
-          TWITTER
+          FOLLOW OUR TWITTER
+        </a>
+        <br />
+        <br />
+        <a href="https://www.patreon.com/CLOAK_?fan_landing=true" target="_blank" rel="noreferrer">
+          SUBSCRIBE TO OUR PATREON
         </a>
       </div>
     </div>

@@ -74,7 +74,7 @@ export const projects = {
       },
     ],
     shortText:
-      "THE NEW UTOPIA / A mosaic descent into the fringes of the underworld. Two detectives stalk through the reality of their own dreams. A murdering spiritualist converses with his victim. Street addresses go missing. Abandoned buildings speak to one another. Voyeuristic loners mythologize what they see in the shadows. And at the center of it all is one woman.",
+      "THE NEW UTOPIA // A mosaic descent into the fringes of the underworld. Two detectives stalk through the reality of their own dreams. A murdering spiritualist converses with his victim. Street addresses go missing. Abandoned buildings speak to one another. Voyeuristic loners mythologize what they see in the shadows. And at the center of it all is one woman.",
     },
   PANOPTICON: {
     imgUrl: "/images/panoptic.png",
@@ -100,7 +100,7 @@ export const projects = {
     shortText:
       "PANOPTICON [fragments] / Bentham's Panopticon is a compelling example of pre-modern thought around visibility and surveillance. Here, re-examined through the virulent design of the multidisciplinary publishing project, CLOAK.",
     },
-DARKNESS: {
+  DARKNESS: {
   imgUrl: "/images/DOUD-1.png",
   title: "DARKNESS",
   url: "/catalogue/DARKNESS",
@@ -494,42 +494,14 @@ DARKNESS: {
       {
         text: 
           "The final issue of An Exchange in Demonology; an Improvement of the Self and Others is a reflection on gifts, decapitation, and also includes divination instructions using the Ars Goetia."
-      }
+      },
+      {
+        text:
+        <a href="https://c-l-o-a-k.itch.io/an-exchange-in-demonology">DIGITAL ZINE SUPPLEMENT AVAILABLE @ ITCH.IO</a>,
+      },
     ],
     shortText: 
       "AN EXCHANGE IN DEMONOLOGY [Print Edition] // A series of zines exploring the relationship between demonology, political theory, and the erotic."
-  },
-  DEMONOLOGY: {
-    imgUrl: "/images/dem2.png",
-    title: "DEMONOLOGY",
-    url: "catalogue/DEMONOLOGY",
-    thumbHeight: "270",
-    thumbWidth: "360",
-    height: "600",
-    width: "800",
-    projectUrl: "https://c-l-o-a-k.itch.io/an-exchange-in-demonology",
-    objectDetails:
-      "An Exchange in Demonology / Free Digital Release / Zine Trilogy / Senia Hardwick",
-    text: [
-      {
-        text:
-          "An Exchange in Demonology; an Improvement of the Self and Other is a series of three zines exploring the relationship between demonology, political theory, and the erotic. Over the course of April 2022, each zine will be released in digital and printable formats." 
-      },
-      {
-        text:
-          "[1] Through the first issue, ​Introduction to Erotic Demonology and the Ars Goetia, we​​ begin our study of the occult by teaching you how to have sex with demons and give an overview of the philosophical stance and history of ideas in the zine."
-      },
-      {
-        text:
-          "[2] Demonology as Route to Unionization is the second zine in a collaboration between CLOAK and Senia Hardwick. Fictions, histories, political theory, and digital artwork coalesce in a brief reflection and instruction on the Ars Goetia and the function of observation." 
-      },
-      {
-        text:
-          "[3] The final issue of An Exchange in Demonology; an Improvement of the Self and Others is a reflection on gifts, decapitation, and also includes divination instructions using the Ars Goetia." 
-      },
-    ],
-    shortText: 
-      "AN EXCHANGE IN DEMONOLOGY // A series of zines exploring the relationship between demonology, political theory, and the erotic."
   },
   WRECKDOM: {
     imgUrl: "/images/thumbnail.png",

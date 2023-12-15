@@ -8,28 +8,39 @@ export default function Signal() {
     <div className="pageContainer">
       <div className="text">
         <p>
-          The CLOAK is a means of obfuscation. Not by rendering itself
-          undetectable, but rather by creating a surface which conceals its
-          contents. Allowing for the user to detect action, but not to discern
-          what that particular action really is.
+          The CLOAK is a tool of obfuscation. It works not by rendering itself
+          undetectable, but rather by creating a surface which conceals the 
+          actions beneath. These actions remain visible in the broader sense, 
+          but their details are masked. The observer may notice the russling of 
+          fabric, the moving of limbs, but they are unable to discern what is russling, 
+          what limbs are moving, what these movements may lead to. Projected through
+          this surface, the gestures of the hand become decoys, ploys, stratagem 
+          against the observer.
         </p>
 
-        <p>A blurring flourish / stealth weapon / a vestigial skin</p>
+        <p>A blurring flourish / a stealth weapon / a vestigial skin</p>
 
         <p>
-          The role of the object is two-fold. First to position itself as
-          something independent of the user (which does
-          not rely on the subject’s capacity to interface). And second, to observe /
-          document its environment—looking back as it is looked upon.
-          Articulating a multi-directionality within the acts of READING &
-          VIEWING.
+          Across this medium, the many mediums contained within it, 
+          the literary-object becomes multi-functional. First, as an independent 
+          entity. Something that's value is not tethered to the subject. 
+          Autonomous / at times unobserved. Then, as a subject-in-itself, 
+          projecting its will back onto the reader. Turning them into something 
+          viewed, read, watched. A participant, willing or not, in the creation 
+          and perpetuation of the artwork.
         </p>
 
+        <p>The body of work / The body of the work / The work of the body</p>
+
         <p>
-          The CLOAK is an anti-solarist tool. Its creation is distinctly
-          digital. The text is written on a computer. In Word, Google Drive,
-          Notepad. Its shape is arranged on InDesign, PowerPoint, Rhino. Its
-          body is produced by IngramSpark, KDP, BookMobile.
+          The CLOAK engenders visibility on the terms of the observed. 
+          It's creation is inevitably digital, not unlike most contemporary
+          literature. The text is written on a computer. In Microsoft Word, 
+          Google Docs, Notepad, Libre. Its appearance is designed on InDesign, 
+          Powerpoint, Affinity, Twine, Rhino. Its form is produced by IngramSpark, 
+          Itch.io, KDP, BookMobile, Friesens. It is not only important to recognize 
+          these constraints within the creation of the text, but find ways in 
+          which they can be warped to benefit the objects of their inception.
         </p>
 
         <Link href="/catalogue/CLOAK" target="_blank" rel="noreferrer">
@@ -55,9 +66,9 @@ export default function Signal() {
         <br />
         <br />
         <br />
-         We would like to thank German Sierra, Daymian Snowden, Logan Berry, William Watson, Danika Stegeman LeMay, Sam Machell, Mariana Marangoni, Michael and Adrienne Gower, Chase P-G, Tristan James, Feral Dove, Logan Jones, Jace Britain, Jake Reber, Jared Billings, and Alec Vohnoutka for their support as material witnesses to the mass beneath the cloak.
+        We would like to thank German Sierra, Daymian Snowden, Logan Berry, William Watson, Danika Stegeman LeMay, Sam Machell, Mariana Marangoni, Michael and Adrienne Gower, Chase P-G, Tristan James, Feral Dove, Logan Jones, Jace Britain, Jake Reber, Jared Billings, and Alec Vohnoutka for their support.
         </p>
-
+        
       </div>
     </div>
   );
