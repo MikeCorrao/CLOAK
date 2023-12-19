@@ -48,6 +48,27 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+  EXITREALITY: {
+    imgUrl: "/images/exitreality.png",
+    title: "EXITREALITY",
+    url: "/catalogue/EXITREALITY",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "400",
+    width: "550",
+    projectUrl: "https://c-l-o-a-k.itch.io/exit-reality-a-diy-tutorial",
+    objectDetails:
+      "Exit Reality / A DIY Tutorial / Ryan Raymond Buell / Free Digital Release",
+    text: [
+      {
+        text:
+          "EXIT REALITY reaches towards you / through the glow of the terminal screen / in corrupted but familiar tongues. How-to guides coalesce in sentient form. This is the path towards disappearance. Follow the instructions. Acquire the materials. Mirrors, cameras, video screens. Remap your perceptions. Leave reality behind for the bliss of non-being.",
+      },
+     
+    ],
+    shortText:
+      "EXIT REALITY // Articulated through outdated technologies and rudimentary interfaces, Ryan Raymond Buell's work explores sousveillance and loneliness in the hyper-online zones of the digital world.",
+    },
   NEWUTOPIA: {
     imgUrl: "/images/utopia.png",
     title: "NEWUTOPIA",
