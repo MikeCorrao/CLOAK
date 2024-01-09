@@ -21,6 +21,9 @@ export default function Home() {
           finding unique methods to convey / obscure / project meaning onto the text.
           <br />
           <br />
+          <a href="https://www.etsy.com/shop/Cloakwtf?ref=seller-platform-mcnav" target="_blank" rel="noreferrer">CHECK OUT OUR MERCH</a>
+          <br />
+          <br />
           <a href="https://bookshop.org/p/books/the-new-utopia-j-billings/20857942?ean=9798218302924" target="_blank" rel="noreferrer">CHECK OUT OUR LATEST RELEASE</a>
           <br />
           <br />
