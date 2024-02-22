@@ -48,6 +48,58 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+  SLASHER: {
+    imgUrl: "/images/slasher.png",
+    title: "SLASHER",
+    url: "/catalogue/SLASHER",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://www.amazon.com/Slasher-Reduxxx-Snatch-Wydlen/dp/B0CT1YXYV8",
+    objectDetails:
+      "SLASHER REDUXXX / Snatch Wylden / 300 Pages / $40",
+    text: [
+      {
+        text:
+          "Enter the abstract narrative landscape of SLASHER REDUXXX. The newest work from Snatch Wylden, weaving avant-garde compositions with existential metafiction, philosophical horror, spectral dances, the enigmatic strands pulled from the fabric that separates dream and reality.",
+      },
+      {
+        text:
+        "Let the text lure you into its mirror maze, over every booby trap, towards each surfacing decoy. Traverse the recesses of an undisclosed consciousness. Slowly approach. Through the meshed masks of duality, persona, portrayal. Let the text pull you further into your subversive roles. Leave your narrator behind. The path from chaos to cohesion is attuned to the steps of the dreamer / slasher / the soul of the model.",
+      },
+      {
+        text:
+        " SLASHER REDUXXX bends experience into abstraction. It speaks through the disembodied voices of the void. Shattered strata. Pulled teeth. Nondescript viscera. In the spaces between words, submerged in warm blood, under cold earth.",
+      },
+      {
+        text:
+        "Not all books are meant to be read. Not all artifacts are meant to be coveted. Welcome to the otherside of the mirror. Where the light refracts and waltzes in the chiaroscuro of shadows.",
+      },
+      {
+        text:
+        "BLURBS",
+      },
+      {
+        text:
+        "This fucking thing, because it is a thing, A Thing, slowly wrings your mind like a lone clean-up rag at a murder scene, stained and threadbare, submissive and wishing for more. We want more, Wylden. -Christopher Norris, author of The Holy Day and Hunchback '88",
+      },
+      {
+        text:
+        "“There`s a body of water with no name that I visited.” Distressed and filmic, Slasher Reduxxx is a dark, depthless pool. When I say “depthless,” I mean it the first way: unfathomably deep. Joan Retallack says the future of writing is fractal, is written in multiple languages, acknowledges + de-/re-constructs the bounds of inherited speech. Snatch Wylden has composed a futurebook. I say composed because “written” can’t begin to define what the book contains, which is not only text but image, distortion, obfuscation, world, frame. Do you want to know what all the words say? Do you want to peel away the layers + (re-)assemble the shards? How will you translate “( suffocation; rust )”? Throughout an undeniably ruined-/ruin- scape, breathtaking images telescope + bloom like cancer spreading through flesh, like “lightning stabs…a crown of thorns…a length of barbed wire to wrap around the ribs of this city. Put your hand on the wall.” Slasher Reduxxx asks you to unsettle the surface and feel for what`s on the other side. -Danika Stegeman LeMay, author of Ablation",
+      },
+      {
+        text:
+        "With peerless freakshowmanship, Snatch Wylden presents Slasher Reduxxx, a malicious & exquisitely executed diablerie. The Slasher's relentless inward yammerings echo across reams of fuzz & fluid, as shards of text lodged in malignant folds of brain meat. It's disquieting, sure, aphasic, & pyrotechnic--but it's also dangerously intimate. Something unspeakable & personal is shed across these pages. Are you brave enough to behold it? You might not be. -Logan Berry, author of Casket Flare and (Run Off Sugar) Crystal Lake",
+      },
+      {
+        text:
+        <a href="https://c-l-o-a-k.itch.io/slasher-digital-companion">CHECK OUT THE DIGITAL COMPANION HERE!</a>
+      },
+    ],
+    shortText:
+      "SLASHER REDUXXX //  SLASHER REDUXXX bends experience into abstraction. It speaks through the disembodied voices of the void. Shattered strata. Pulled teeth. Nondescript viscera. In the spaces between words, submerged in warm blood, under cold earth.",
+    },
   EXITREALITY: {
     imgUrl: "/images/exitreality.png",
     title: "EXITREALITY",
