@@ -28,7 +28,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://bookshop.org/books/cloak-on-the-textobject-its-concealment/9780578360850",
     objectDetails:
-      "CLOAK: On the Textobject & its Concealment / Color / 22 pages / $10",
+    <center>CLOAK: On the Textobject & its Concealment / Color / 22 pages / $10</center>,
     text: [
       {
         className: "italic",
@@ -57,8 +57,8 @@ export const projects = {
     height: "600",
     width: "800",
     projectUrl: "https://www.amazon.com/Slasher-Reduxxx-Snatch-Wydlen/dp/B0CT1YXYV8",
-    objectDetails:
-      "SLASHER REDUXXX / Snatch Wylden / 300 Pages / $40",
+    objectDetails: 
+    <center>SLASHER REDUXXX / Snatch Wylden / 300 Pages / $40</center>,
     text: [
       {
         text:
@@ -118,7 +118,7 @@ export const projects = {
     width: "550",
     projectUrl: "https://c-l-o-a-k.itch.io/exit-reality-a-diy-tutorial",
     objectDetails:
-      "Exit Reality / A DIY Tutorial / Ryan Raymond Buell / Free Digital Release",
+    <center>Exit Reality / A DIY Tutorial / Ryan Raymond Buell / Free Digital Release</center>,
     text: [
       {
         text:
@@ -139,7 +139,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://bookshop.org/p/books/the-new-utopia-j-billings/20857942?ean=9798218302924",
     objectDetails:
-      "The New Utopia / J. Billings / 96 Pages / $9",
+    <center>The New Utopia / J. Billings / 96 Pages / $9</center>,
     text: [
       {
         text:
@@ -167,7 +167,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://bookshop.org/p/books/panopticon-fragments-jeremy-bentham/20536933?ean=9798218267605",
     objectDetails:
-      "Panopticon [fragments] / 114 Pages / $9",
+    <center>Panopticon [fragments] / 114 Pages / $9</center>,
     text: [
       {
         text:
@@ -191,7 +191,7 @@ export const projects = {
   width: "800",
   projectUrl: "https://bookshop.org/p/books/dance-of-utter-darkness-cloak/20123879?ean=9798218206352",
   objectDetails:
-    "Dance of Utter Darkness / 36 Pages / $9",
+  <center>Dance of Utter Darkness / 36 Pages / $9</center>,
   text: [
     {
       text:
@@ -219,7 +219,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://c-l-o-a-k.itch.io/unto-the-umbilicus",
     objectDetails:
-      "UNTO THE UMBILICUS / Snatch Wylden / Labyrinth of the Poor Image / Free Digital Release",
+    <center>UNTO THE UMBILICUS / Snatch Wylden / Labyrinth of the Poor Image / Free Digital Release</center>,
     text: [
       {
         text:
@@ -254,7 +254,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://c-l-o-a-k.itch.io/how-to-hide-a-body",
     objectDetails:
-      "how to hide a body / Wrath of Persephone / Neural Pathway / Free Digital Release",
+    <center>how to hide a body / Wrath of Persephone / Neural Pathway / Free Digital Release</center>,
     text: [
       {
         text:
@@ -282,7 +282,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://bookshop.org/p/books/the-house-inside-the-house-of-gregor-schneider-gary-j-shipley/19794596?ean=9798218151829",
     objectDetails:
-      "THE HOUSE INSIDE THE HOUSE OF GREGOR SCHNEIDER / Gary J. Shipley / 236 Pages / $12",
+    <center>THE HOUSE INSIDE THE HOUSE OF GREGOR SCHNEIDER / Gary J. Shipley / 236 Pages / $12</center>,
     text: [
       {
         text:
@@ -328,7 +328,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://c-l-o-a-k.itch.io/scrims",
     objectDetails:
-      "SCRIMS / Garett Strickland / Digital / Free Digital Release / Bard╽o╿ic Membrane",
+    <center>SCRIMS / Garett Strickland / Digital / Free Digital Release / Bard╽o╿ic Membrane</center>,
     text: [
       {
         className: "italic",
@@ -376,7 +376,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://c-l-o-a-k.itch.io/cloak-asset-pak",
     objectDetails:
-      "CLOAK ASSET PAK / 150+ IN-HOUSE ASSETS / $1.00",
+    <center>CLOAK ASSET PAK / 150+ IN-HOUSE ASSETS / $1.00</center>,
     text: [
       {
         text:
@@ -400,7 +400,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://bookshop.org/p/books/offal-opacities-d-m-closet/18963750?ean=9798218072056",
     objectDetails:
-      "Offal Opacities / D.M. Closet / 56 Color Pages / $10",
+    <center>Offal Opacities / D.M. Closet / 56 Color Pages / $10</center>,
     text: [
       {
         text:
@@ -432,7 +432,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://c-l-o-a-k.itch.io/extrawberry",
     objectDetails:
-      "EXTRAWBERRY / Brandan Griffin / Free Digital Release / Media-Scroll",
+    <center>EXTRAWBERRY / Brandan Griffin / Free Digital Release / Media-Scroll</center>,
     text: [
       {
         text:
@@ -460,7 +460,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://bookshop.org/books/bodies-like-meat/9798218027391",
     objectDetails:
-      "Bodies Like Meat: RPG Death Simulator / B&W / 190 pages / $12",
+    <center>Bodies Like Meat: RPG Death Simulator / B&W / 190 pages / $12</center>,
     text: [
       {
         className: "italic",
@@ -493,7 +493,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://bookshop.org/books/police-lucifer/9780578285528",
     objectDetails:
-      "POLICE LUCIFER / William Watson / 44 pages / $8",
+    <center>POLICE LUCIFER / William Watson / 44 pages / $8</center>,
     text: [
       {
         text:
@@ -529,7 +529,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://c-l-o-a-k.itch.io/relentless",
     objectDetails:
-      "RELENTLESS / Free Digital Release / Infinite Poem / Danika Stegeman LeMay",
+    <center>RELENTLESS / Free Digital Release / Infinite Poem / Danika Stegeman</center>,
     text: [
       {
         className: "italic",
@@ -558,7 +558,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://bookshop.org/books/an-exchange-in-demonology-improvement-of-the-self-and-others/9780578285559",
     objectDetails:
-      "AN EXCHANGE IN DEMONOLOGY / Senia Hardwick / 92 Pages / $10",
+    <center>AN EXCHANGE IN DEMONOLOGY / Senia Hardwick / 92 Pages / $10</center>,
     text: [
       {
         text:
@@ -594,7 +594,7 @@ export const projects = {
     width: "800",
     projectUrl: "https://c-l-o-a-k.itch.io/wreckdom",
     objectDetails:
-      "WRECKDOM / Free Digital Release / 31 Levels / Logan Berry",
+    <center>WRECKDOM / Free Digital Release / 31 Levels / Logan Berry</center>,
     text: [
       {
         text:
