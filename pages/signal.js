@@ -66,7 +66,7 @@ export default function Signal() {
         <br />
         <br />
         <br />
-        We would like to thank German Sierra, Daymian Snowden, Logan Berry, William Watson, Danika Stegeman LeMay, Sam Machell, Mariana Marangoni, Anthony Dragonetti, Michael and Adrienne Gower, Chase P-G, Tristan James, Feral Dove, Logan Jones, Jace Britain, Jake Reber, Jared Billings, and Alec Vohnoutka for their support.
+        We would like to thank German Sierra, Daymian Snowden, Logan Berry, William Watson, Danika Stegeman, Sam Machell, Robert Comparda, Mariana Marangoni, Anthony Dragonetti, Michael and Adrienne Gower, Chase P-G, Tristan James, Feral Dove, Logan Jones, Jace Britain, Jake Reber, Jared Billings, and Alec Vohnoutka for their support.
         </p>
         
       </div>
