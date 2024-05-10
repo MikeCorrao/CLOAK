@@ -48,6 +48,30 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+  VESICAPISCIS: {
+    imgUrl: "/images/VESICAPISCIS-cvr-spread.png",
+    title: "VESICAPISCIS",
+    url: "/catalogue/VESICAPISCIS",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://bookshop.org/p/books/vesicapiscis-aubrey-birch/21353838?ean=9798218411626",
+    objectDetails:
+    <center>Vesicapiscis / Aubrey Birch / 58 Pages / $8</center>,
+    text: [
+      {
+        text:
+          "Vesicapiscis details a poetics of self-reflection / self-projection. What cannot be defined is pulled into the body, examined, dissected, regurgitated. Its form is prodded and rearranged. Every word / phrase / sentence is suseptible to mutation. And these mutations inevtiably proliferate onto the speaker's tongues, their throat, deep into their nervous system. Language is a virus, and as such, it must be studied.",
+      },
+      {
+        text:
+          "Here we are, at the abyss.",
+      },
+    ],
+    shortText:
+      "VESICAPISCIS / Aubrey Birch's debut collection is a hypnotic, rhythmic exploration of fame, the self, and the divine, all presented through an excitingly inventive sequence of prose poems.",
+    },
   SLASHER: {
     imgUrl: "/images/slasher.png",
     title: "SLASHER",
@@ -103,6 +127,10 @@ export const projects = {
       {
         text:
         <a href="https://c-l-o-a-k.itch.io/slasher-digital-companion">CHECK OUT THE DIGITAL COMPANION HERE!</a>
+      },
+      {
+        text:
+        <a href="https://denniscooperblog.com/please-welcome-to-the-world-snatch-wylden-slasher-reduxxx-cloak/">FEATURE @ DENNIS COOPER BLOG</a>
       },
     ],
     shortText:

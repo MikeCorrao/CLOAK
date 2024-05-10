@@ -24,7 +24,7 @@ export default function Home() {
           <a href="https://www.etsy.com/shop/Cloakwtf?ref=seller-platform-mcnav" target="_blank" rel="noreferrer">CHECK OUT OUR MERCH</a>
           <br />
           <br />
-          <a href="https://bookshop.org/p/books/the-new-utopia-j-billings/20857942?ean=9798218302924" target="_blank" rel="noreferrer">CHECK OUT OUR LATEST RELEASE</a>
+          <a href="https://bookshop.org/p/books/vesicapiscis-aubrey-birch/21353838?ean=9798218411626" target="_blank" rel="noreferrer">CHECK OUT OUR LATEST RELEASE</a>
           <br />
           <br />
           We are open for submissions, with a particular interest in themes of visibility, concealment, 
