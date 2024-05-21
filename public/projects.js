@@ -48,6 +48,34 @@ export const projects = {
     shortText:
       "CLOAK // In this self-titled inaugural release, we've set out to explore the textobject and its relationship to ideations of concealment / surveillance / visibility. We have assembled CLOAK as a starting point. The first flourish of the stealth weapon / integumentary drape / vestigial skin. ",
   },
+  PEOPLEFINDERBUFFALO: {
+    imgUrl: "/images/BUFFALOPEOPLEFINDER.png",
+    title: "PEOPLEFINDERBUFFALO",
+    url: "/catalogue/PEOPLEFINDERBUFFALO",
+    thumbHeight: "270",
+    thumbWidth: "360",
+    height: "600",
+    width: "800",
+    projectUrl: "https://bookshop.org/p/books/people-finder-buffalo-joe-hall/21245990",
+    objectDetails:
+    <center>People Finder, Buffalo / Joe Hall / 48 Pages / $10</center>,
+    text: [
+      {
+        text:
+          "These poems come to you from Buffalo, a provincial city where the information infrastructure has largely collapsed. Murderers, corrupt public officials, ruthless power structures slide under the radar, feeding on the people's disillusionment and fragmentation.",
+      },
+      {
+        text:
+          "In his latest collection, Joe Hall expands upon his previous work-dragging each power-hungry ghoul from their cave and into the light. Every wound inflicted upon the people is reflected back onto the body of the victimizer-branded onto them.",
+      },
+      {
+        text:
+          "People Finder, Buffalo is a relentless indictment of the cronies of racial capitalism in the imperial core.",
+      },
+    ],
+    shortText:
+      "People Finder, Buffalo / Joe Hall's newest collection is a relentless indictment of the cronies of racial capitalism in the imperial core.",
+    },
   VESICAPISCIS: {
     imgUrl: "/images/VESICAPISCIS-cvr-spread.png",
     title: "VESICAPISCIS",
