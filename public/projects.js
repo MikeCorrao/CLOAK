@@ -52,10 +52,10 @@ export const projects = {
     imgUrl: "/images/BUFFALOPEOPLEFINDER.png",
     title: "PEOPLEFINDERBUFFALO",
     url: "/catalogue/PEOPLEFINDERBUFFALO",
-    thumbHeight: "270",
+    thumbHeight: "230",
     thumbWidth: "360",
-    height: "600",
-    width: "800",
+    height: "580",
+    width: "900",
     projectUrl: "https://bookshop.org/p/books/people-finder-buffalo-joe-hall/21245990",
     objectDetails:
     <center>People Finder, Buffalo / Joe Hall / 48 Pages / $10</center>,
